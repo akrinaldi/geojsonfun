@@ -1,4 +1,7 @@
-[{
+{
+    "type": "FeatureCollection",
+    "features": [
+	{
 		"geometry": {
 			"type": "Point",
 			"coordinates": [34.783368, -86.568502]
@@ -5666,4 +5669,4 @@
 			"state": "WV"
 		}
 	}
-]
+]}
