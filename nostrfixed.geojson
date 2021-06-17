@@ -1,0 +1,159 @@
+{"type":"FeatureCollection","features":[
+	{
+		"type": "Feature",
+		"properties": {
+			"uni_name": "Alabama A & M University",
+			"ISTandF": 9857,
+			"ISTLOC": 23057,
+			"OOSLOC": 31436,
+			"ISTLOFFC": 22416,
+			"OOSLOFFC": 30795,
+			"ISTLWF": 14037,
+			"OOSLWF": 22416,
+			"PERCENTADMIT": 87,
+			"FUNDINGSOURCE": "Public",
+			"DegreeCOUNT": 2,
+			"url": "www.aamu.edu/",
+			"landgrantYN": "TRUE",
+			"census_region": "South",
+			"census_division": "East South Central",
+			"city": "Normal",
+			"state": "AL"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-86.568502, 34.783368]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"uni_name": "Auburn University",
+			"ISTandF": 10968,
+			"ISTLOC": 31282,
+			"OOSLOC": 49954,
+			"ISTLOFFC": 31282,
+			"OOSLOFFC": 49954,
+			"ISTLWF": 17950,
+			"OOSLWF": 36622,
+			"PERCENTADMIT": 81,
+			"FUNDINGSOURCE": "Public",
+			"DegreeCOUNT": 6,
+			"url": "www.auburn.edu",
+			"landgrantYN": "TRUE",
+			"census_region": "South",
+			"census_division": "East South Central",
+			"city": "Auburn",
+			"state": "AL"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-85.488258, 32.599378]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"uni_name": "Tuskegee University",
+			"ISTandF": 22170,
+			"ISTLOC": 39383,
+			"OOSLOC": 39383,
+			"ISTLOFFC": 40037,
+			"OOSLOFFC": 40037,
+			"ISTLWF": 28776,
+			"OOSLWF": 28776,
+			"PERCENTADMIT": 50,
+			"FUNDINGSOURCE": "Private",
+			"DegreeCOUNT": 1,
+			"url": "www.tuskegee.edu",
+			"landgrantYN": "TRUE",
+			"census_region": "South",
+			"census_division": "East South Central",
+			"city": "Tuskegee",
+			"state": "AL"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-85.708492, 32.4309]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"uni_name": "University of Arkansas",
+			"ISTandF": 9062,
+			"ISTLOC": 24916,
+			"OOSLOC": 40162,
+			"ISTLOFFC": 24916,
+			"OOSLOFFC": 40162,
+			"ISTLWF": 14212,
+			"OOSLWF": 29458,
+			"PERCENTADMIT": 63,
+			"FUNDINGSOURCE": "Public",
+			"DegreeCOUNT": 8,
+			"url": "www.uark.edu",
+			"landgrantYN": "TRUE",
+			"census_region": "South",
+			"census_division": "West South Central",
+			"city": "Fayetteville",
+			"state": "AR"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-94.176981, 36.070009]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"uni_name": "University of Central Arkansas",
+			"ISTandF": 8524,
+			"ISTLOC": 21854,
+			"OOSLOC": 28377,
+			"ISTLOFFC": 21664,
+			"OOSLOFFC": 28187,
+			"ISTLWF": 15336,
+			"OOSLWF": 21859,
+			"PERCENTADMIT": 90,
+			"FUNDINGSOURCE": "Public",
+			"DegreeCOUNT": 2,
+			"url": "www.uca.edu",
+			"landgrantYN": "FALSE",
+			"census_region": "South",
+			"census_division": "West South Central",
+			"city": "Conway",
+			"state": "AR"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-92.457672, 35.077945]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"uni_name": "Arizona State University-Tempe",
+			"ISTandF": 10792,
+			"ISTLOC": 27530,
+			"OOSLOC": 44110,
+			"ISTLOFFC": 26118,
+			"OOSLOFFC": 42698,
+			"ISTLWF": 16303,
+			"OOSLWF": 32883,
+			"PERCENTADMIT": 83,
+			"FUNDINGSOURCE": "Public",
+			"DegreeCOUNT": 12,
+			"url": "www.asu.edu/",
+			"landgrantYN": "FALSE",
+			"census_region": "West",
+			"census_division": "Mountain",
+			"city": "Tempe",
+			"state": "AZ"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-111.934383, 33.417721]
+		}
+	}
+]
+}
