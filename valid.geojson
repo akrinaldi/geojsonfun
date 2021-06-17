@@ -1,0 +1,5671 @@
+{"type":"FeatureCollection","features":[
+	{
+		"type": "Feature",
+		"properties": {
+			"uni_name": "Alabama A & M University",
+			"ISTandF": "9857",
+			"ISTLOC": "23057",
+			"OOSLOC": "31436",
+			"ISTLOFFC": "22416",
+			"OOSLOFFC": "30795",
+			"ISTLWF": "14037",
+			"OOSLWF": "22416",
+			"PERCENTADMIT": "87",
+			"FUNDINGSOURCE": "Public",
+			"DegreeCOUNT": "2",
+			"url": "www.aamu.edu/",
+			"landgrantYN": "TRUE",
+			"census_region": "South",
+			"census_division": "East South Central",
+			"city": "Normal",
+			"state": "AL"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-86.568502, 34.783368]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"uni_name": "Auburn University",
+			"ISTandF": "10968",
+			"ISTLOC": "31282",
+			"OOSLOC": "49954",
+			"ISTLOFFC": "31282",
+			"OOSLOFFC": "49954",
+			"ISTLWF": "17950",
+			"OOSLWF": "36622",
+			"PERCENTADMIT": "81",
+			"FUNDINGSOURCE": "Public",
+			"DegreeCOUNT": "6",
+			"url": "www.auburn.edu",
+			"landgrantYN": "TRUE",
+			"census_region": "South",
+			"census_division": "East South Central",
+			"city": "Auburn",
+			"state": "AL"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-85.488258, 32.599378]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"uni_name": "Tuskegee University",
+			"ISTandF": "22170",
+			"ISTLOC": "39383",
+			"OOSLOC": "39383",
+			"ISTLOFFC": "40037",
+			"OOSLOFFC": "40037",
+			"ISTLWF": "28776",
+			"OOSLWF": "28776",
+			"PERCENTADMIT": "50",
+			"FUNDINGSOURCE": "Private",
+			"DegreeCOUNT": "1",
+			"url": "www.tuskegee.edu",
+			"landgrantYN": "TRUE",
+			"census_region": "South",
+			"census_division": "East South Central",
+			"city": "Tuskegee",
+			"state": "AL"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-85.708492, 32.4309]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"uni_name": "University of Arkansas",
+			"ISTandF": "9062",
+			"ISTLOC": "24916",
+			"OOSLOC": "40162",
+			"ISTLOFFC": "24916",
+			"OOSLOFFC": "40162",
+			"ISTLWF": "14212",
+			"OOSLWF": "29458",
+			"PERCENTADMIT": "63",
+			"FUNDINGSOURCE": "Public",
+			"DegreeCOUNT": "8",
+			"url": "www.uark.edu",
+			"landgrantYN": "TRUE",
+			"census_region": "South",
+			"census_division": "West South Central",
+			"city": "Fayetteville",
+			"state": "AR"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-94.176981, 36.070009]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"uni_name": "University of Central Arkansas",
+			"ISTandF": "8524",
+			"ISTLOC": "21854",
+			"OOSLOC": "28377",
+			"ISTLOFFC": "21664",
+			"OOSLOFFC": "28187",
+			"ISTLWF": "15336",
+			"OOSLWF": "21859",
+			"PERCENTADMIT": "90",
+			"FUNDINGSOURCE": "Public",
+			"DegreeCOUNT": "2",
+			"url": "www.uca.edu",
+			"landgrantYN": "FALSE",
+			"census_region": "South",
+			"census_division": "West South Central",
+			"city": "Conway",
+			"state": "AR"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-92.457672, 35.077945]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"uni_name": "Arizona State University-Tempe",
+			"ISTandF": "10792",
+			"ISTLOC": "27530",
+			"OOSLOC": "44110",
+			"ISTLOFFC": "26118",
+			"OOSLOFFC": "42698",
+			"ISTLWF": "16303",
+			"OOSLWF": "32883",
+			"PERCENTADMIT": "83",
+			"FUNDINGSOURCE": "Public",
+			"DegreeCOUNT": "12",
+			"url": "www.asu.edu/",
+			"landgrantYN": "FALSE",
+			"census_region": "West",
+			"census_division": "Mountain",
+			"city": "Tempe",
+			"state": "AZ"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-111.934383, 33.417721]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"uni_name": "Northern Arizona University",
+			"ISTandF": "11059",
+			"ISTLOC": "26923",
+			"OOSLOC": "40705",
+			"ISTLOFFC": "27133",
+			"OOSLOFFC": "40915",
+			"ISTLWF": "17199",
+			"OOSLWF": "30981",
+			"PERCENTADMIT": "78",
+			"FUNDINGSOURCE": "Public",
+			"DegreeCOUNT": "2",
+			"url": "nau.edu/",
+			"landgrantYN": "FALSE",
+			"census_region": "West",
+			"census_division": "Mountain",
+			"city": "Flagstaff",
+			"state": "AZ"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-111.653724, 35.188449]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"uni_name": "University of Arizona",
+			"ISTandF": "11877",
+			"ISTLOC": "28277",
+			"OOSLOC": "51707",
+			"ISTLOFFC": "30177",
+			"OOSLOFFC": "53607",
+			"ISTLWF": "15977",
+			"OOSLWF": "39407",
+			"PERCENTADMIT": "79",
+			"FUNDINGSOURCE": "Public",
+			"DegreeCOUNT": "13",
+			"url": "www.arizona.edu",
+			"landgrantYN": "TRUE",
+			"census_region": "West",
+			"census_division": "Mountain",
+			"city": "Tucson",
+			"state": "AZ"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-110.950815, 32.232672]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"uni_name": "Academy of Art University",
+			"ISTandF": "21252",
+			"ISTLOC": "42250",
+			"OOSLOC": "42250",
+			"ISTLOFFC": "40750",
+			"OOSLOFFC": "40750",
+			"ISTLWF": "27592",
+			"OOSLWF": "27592",
+			"PERCENTADMIT": "NULL",
+			"FUNDINGSOURCE": "Private",
+			"DegreeCOUNT": "10",
+			"url": "www.academyart.edu",
+			"landgrantYN": "FALSE",
+			"census_region": "West",
+			"census_division": "Pacific",
+			"city": "San Francisco",
+			"state": "CA"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-122.400686, 37.787748]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"uni_name": "California Baptist University",
+			"ISTandF": "32256",
+			"ISTLOC": "45982",
+			"OOSLOC": "45982",
+			"ISTLOFFC": "51644",
+			"OOSLOFFC": "51644",
+			"ISTLWF": "38484",
+			"OOSLWF": "38484",
+			"PERCENTADMIT": "64",
+			"FUNDINGSOURCE": "Private",
+			"DegreeCOUNT": "3",
+			"url": "www.calbaptist.edu",
+			"landgrantYN": "FALSE",
+			"census_region": "West",
+			"census_division": "Pacific",
+			"city": "Riverside",
+			"state": "CA"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-117.42587, 33.928569]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"uni_name": "California College of the Arts",
+			"ISTandF": "47266",
+			"ISTLOC": "64906",
+			"OOSLOC": "64906",
+			"ISTLOFFC": "63986",
+			"OOSLOFFC": "63986",
+			"ISTLWF": "53166",
+			"OOSLWF": "53166",
+			"PERCENTADMIT": "65",
+			"FUNDINGSOURCE": "Private",
+			"DegreeCOUNT": "4",
+			"url": "www.cca.edu",
+			"landgrantYN": "FALSE",
+			"census_region": "West",
+			"census_division": "Pacific",
+			"city": "San Francisco",
+			"state": "CA"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-122.399451, 37.767485]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"uni_name": "California Polytechnic State University-San Luis Obispo",
+			"ISTandF": "9432",
+			"ISTLOC": "27153",
+			"OOSLOC": "39033",
+			"ISTLOFFC": "27153",
+			"OOSLOFFC": "39033",
+			"ISTLWF": "14019",
+			"OOSLWF": "25899",
+			"PERCENTADMIT": "29",
+			"FUNDINGSOURCE": "Public",
+			"DegreeCOUNT": "8",
+			"url": "calpoly.edu",
+			"landgrantYN": "FALSE",
+			"census_region": "West",
+			"census_division": "Pacific",
+			"city": "San Luis Obispo",
+			"state": "CA"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-120.657311, 35.299513]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"uni_name": "California State Polytechnic University-Pomona",
+			"ISTandF": "7339",
+			"ISTLOC": "26057",
+			"OOSLOC": "37937",
+			"ISTLOFFC": "24531",
+			"OOSLOFFC": "36411",
+			"ISTLWF": "11943",
+			"OOSLWF": "23823",
+			"PERCENTADMIT": "59",
+			"FUNDINGSOURCE": "Public",
+			"DegreeCOUNT": "8",
+			"url": "www.cpp.edu",
+			"landgrantYN": "FALSE",
+			"census_region": "West",
+			"census_division": "Pacific",
+			"city": "Pomona",
+			"state": "CA"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-117.819019, 34.054273]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"uni_name": "California State University-Northridge",
+			"ISTandF": "6875",
+			"ISTLOC": "22127",
+			"OOSLOC": "34007",
+			"ISTLOFFC": "26299",
+			"OOSLOFFC": "38179",
+			"ISTLWF": "11837",
+			"OOSLWF": "23717",
+			"PERCENTADMIT": "48",
+			"FUNDINGSOURCE": "Public",
+			"DegreeCOUNT": "2",
+			"url": "www.csun.edu",
+			"landgrantYN": "FALSE",
+			"census_region": "West",
+			"census_division": "Pacific",
+			"city": "Northridge",
+			"state": "CA"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-118.526817, 34.23671]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"uni_name": "New School of Architecture and Design",
+			"ISTandF": "53508",
+			"ISTLOC": "NULL",
+			"OOSLOC": "NULL",
+			"ISTLOFFC": "NULL",
+			"OOSLOFFC": "NULL",
+			"ISTLWF": "NULL",
+			"OOSLWF": "NULL",
+			"PERCENTADMIT": "NULL",
+			"FUNDINGSOURCE": "Private",
+			"DegreeCOUNT": "8",
+			"url": "www.newschoolarch.edu",
+			"landgrantYN": "FALSE",
+			"census_region": "West",
+			"census_division": "Pacific",
+			"city": "San Diego",
+			"state": "CA"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-117.1534572, 32.7133678]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"uni_name": "San Jose State University",
+			"ISTandF": "7721",
+			"ISTLOC": "28166",
+			"OOSLOC": "40046",
+			"ISTLOFFC": "27145",
+			"OOSLOFFC": "39025",
+			"ISTLWF": "12684",
+			"OOSLWF": "24564",
+			"PERCENTADMIT": "53",
+			"FUNDINGSOURCE": "Public",
+			"DegreeCOUNT": "1",
+			"url": "www.sjsu.edu",
+			"landgrantYN": "FALSE",
+			"census_region": "West",
+			"census_division": "Pacific",
+			"city": "San Jose",
+			"state": "CA"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-121.880621, 37.336569]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"uni_name": "Sonoma State University",
+			"ISTandF": "7724",
+			"ISTLOC": "26034",
+			"OOSLOC": "37914",
+			"ISTLOFFC": "27054",
+			"OOSLOFFC": "38934",
+			"ISTLWF": "12592",
+			"OOSLWF": "24472",
+			"PERCENTADMIT": "76",
+			"FUNDINGSOURCE": "Public",
+			"DegreeCOUNT": "1",
+			"url": "www.sonoma.edu",
+			"landgrantYN": "FALSE",
+			"census_region": "West",
+			"census_division": "Pacific",
+			"city": "Rohnert Park",
+			"state": "CA"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-122.673261, 38.341023]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"uni_name": "Southern California Institute of Architecture",
+			"ISTandF": "43800",
+			"ISTLOC": "NULL",
+			"OOSLOC": "NULL",
+			"ISTLOFFC": "67750",
+			"OOSLOFFC": "67750",
+			"ISTLWF": "56650",
+			"OOSLWF": "56650",
+			"PERCENTADMIT": "",
+			"FUNDINGSOURCE": "Private",
+			"DegreeCOUNT": "6",
+			"url": "www.sciarc.edu",
+			"landgrantYN": "FALSE",
+			"census_region": "West",
+			"census_division": "Pacific",
+			"city": "Los Angeles",
+			"state": "CA"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-118.232703, 34.04365]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"uni_name": "University of California-Berkeley",
+			"ISTandF": "14170",
+			"ISTLOC": "36989",
+			"OOSLOC": "65003",
+			"ISTLOFFC": "33247",
+			"OOSLOFFC": "61261",
+			"ISTLWF": "26799",
+			"OOSLWF": "54813",
+			"PERCENTADMIT": "17",
+			"FUNDINGSOURCE": "Public",
+			"DegreeCOUNT": "14",
+			"url": "www.berkeley.edu",
+			"landgrantYN": "TRUE",
+			"census_region": "West",
+			"census_division": "Pacific",
+			"city": "Berkeley",
+			"state": "CA"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-122.260463, 37.871918]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"uni_name": "University of California-Davis",
+			"ISTandF": "14419",
+			"ISTLOC": "35729",
+			"OOSLOC": "63743",
+			"ISTLOFFC": "29847",
+			"OOSLOFFC": "57861",
+			"ISTLWF": "27057",
+			"OOSLWF": "55071",
+			"PERCENTADMIT": "42",
+			"FUNDINGSOURCE": "Public",
+			"DegreeCOUNT": "1",
+			"url": "www.ucdavis.edu",
+			"landgrantYN": "TRUE",
+			"census_region": "West",
+			"census_division": "Pacific",
+			"city": "Davis",
+			"state": "CA"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-121.751958, 38.539895]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"uni_name": "University of California-Irvine",
+			"ISTandF": "13738",
+			"ISTLOC": "33858",
+			"OOSLOC": "61872",
+			"ISTLOFFC": "31896",
+			"OOSLOFFC": "59910",
+			"ISTLWF": "25999",
+			"OOSLWF": "54013",
+			"PERCENTADMIT": "41",
+			"FUNDINGSOURCE": "Public",
+			"DegreeCOUNT": "3",
+			"url": "www.uci.edu/",
+			"landgrantYN": "TRUE",
+			"census_region": "West",
+			"census_division": "Pacific",
+			"city": "Irvine",
+			"state": "CA"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-117.841248, 33.648434]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"uni_name": "University of California-Los Angeles",
+			"ISTandF": "13261",
+			"ISTLOC": "33901",
+			"OOSLOC": "61915",
+			"ISTLOFFC": "32294",
+			"OOSLOFFC": "60308",
+			"ISTLWF": "25735",
+			"OOSLWF": "53749",
+			"PERCENTADMIT": "18",
+			"FUNDINGSOURCE": "Public",
+			"DegreeCOUNT": "8",
+			"url": "www.ucla.edu/",
+			"landgrantYN": "TRUE",
+			"census_region": "West",
+			"census_division": "Pacific",
+			"city": "Los Angeles",
+			"state": "CA"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-118.443901, 34.068892]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"uni_name": "University of Southern California",
+			"ISTandF": "54259",
+			"ISTLOC": "72209",
+			"OOSLOC": "72209",
+			"ISTLOFFC": "72209",
+			"OOSLOFFC": "72209",
+			"ISTLWF": "59395",
+			"OOSLWF": "59395",
+			"PERCENTADMIT": "17",
+			"FUNDINGSOURCE": "Private",
+			"DegreeCOUNT": "9",
+			"url": "www.usc.edu/",
+			"landgrantYN": "FALSE",
+			"census_region": "West",
+			"census_division": "Pacific",
+			"city": "Los Angeles",
+			"state": "CA"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-118.284169, 34.021281]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"uni_name": "Woodbury University",
+			"ISTandF": "38460",
+			"ISTLOC": "54633",
+			"OOSLOC": "54633",
+			"ISTLOFFC": "57801",
+			"OOSLOFFC": "57801",
+			"ISTLWF": "44643",
+			"OOSLWF": "44643",
+			"PERCENTADMIT": "66",
+			"FUNDINGSOURCE": "Private",
+			"DegreeCOUNT": "6",
+			"url": "woodbury.edu/",
+			"landgrantYN": "FALSE",
+			"census_region": "West",
+			"census_division": "Pacific",
+			"city": "Burbank",
+			"state": "CA"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-118.341147, 34.208011]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"uni_name": "Colorado State University-Fort Collins",
+			"ISTandF": "11395",
+			"ISTLOC": "25929",
+			"OOSLOC": "43437",
+			"ISTLOFFC": "24287",
+			"OOSLOFFC": "41795",
+			"ISTLWF": "13955",
+			"OOSLWF": "31463",
+			"PERCENTADMIT": "78",
+			"FUNDINGSOURCE": "Public",
+			"DegreeCOUNT": "1",
+			"url": "www.colostate.edu",
+			"landgrantYN": "TRUE",
+			"census_region": "West",
+			"census_division": "Mountain",
+			"city": "Fort Collins",
+			"state": "CO"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-105.080732, 40.574805]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"uni_name": "University of Colorado Boulder",
+			"ISTandF": "12086",
+			"ISTLOC": "30178",
+			"OOSLOC": "54312",
+			"ISTLOFFC": "28608",
+			"OOSLOFFC": "52742",
+			"ISTLWF": "16028",
+			"OOSLWF": "40162",
+			"PERCENTADMIT": "77",
+			"FUNDINGSOURCE": "Public",
+			"DegreeCOUNT": "3",
+			"url": "www.colorado.edu",
+			"landgrantYN": "FALSE",
+			"census_region": "West",
+			"census_division": "Mountain",
+			"city": "Boulder",
+			"state": "CO"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-105.270823, 40.008781]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"uni_name": "University of Colorado Denver/Anschutz Medical Campus",
+			"ISTandF": "9107",
+			"ISTLOC": "NULL",
+			"OOSLOC": "NULL",
+			"ISTLOFFC": "27962",
+			"OOSLOFFC": "44114",
+			"ISTLWF": "16208",
+			"OOSLWF": "32360",
+			"PERCENTADMIT": "61",
+			"FUNDINGSOURCE": "Public",
+			"DegreeCOUNT": "7",
+			"url": "www.ucdenver.edu/",
+			"landgrantYN": "FALSE",
+			"census_region": "West",
+			"census_division": "Mountain",
+			"city": "Denver",
+			"state": "CO"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-104.837722, 39.745149]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"uni_name": "University of Connecticut",
+			"ISTandF": "14880",
+			"ISTLOC": "31044",
+			"OOSLOC": "53112",
+			"ISTLOFFC": "31044",
+			"OOSLOFFC": "53112",
+			"ISTLWF": "18480",
+			"OOSLWF": "40548",
+			"PERCENTADMIT": "49",
+			"FUNDINGSOURCE": "Public",
+			"DegreeCOUNT": "1",
+			"url": "uconn.edu/",
+			"landgrantYN": "TRUE",
+			"census_region": "Northeast",
+			"census_division": "New England",
+			"city": "Storrs",
+			"state": "CT"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-72.249948, 41.809098]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"uni_name": "University of Hartford",
+			"ISTandF": "38910",
+			"ISTLOC": "54662",
+			"OOSLOC": "54662",
+			"ISTLOFFC": "55086",
+			"OOSLOFFC": "55086",
+			"ISTLWF": "42740",
+			"OOSLWF": "42740",
+			"PERCENTADMIT": "72",
+			"FUNDINGSOURCE": "Private",
+			"DegreeCOUNT": "2",
+			"url": "www.hartford.edu",
+			"landgrantYN": "FALSE",
+			"census_region": "Northeast",
+			"census_division": "New England",
+			"city": "West Hartford",
+			"state": "CT"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-72.714965, 41.796485]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"uni_name": "Yale University",
+			"ISTandF": "51400",
+			"ISTLOC": "71290",
+			"OOSLOC": "71290",
+			"ISTLOFFC": "NULL",
+			"OOSLOFFC": "NULL",
+			"ISTLWF": "NULL",
+			"OOSLWF": "NULL",
+			"PERCENTADMIT": "6",
+			"FUNDINGSOURCE": "Private",
+			"DegreeCOUNT": "3",
+			"url": "www.yale.edu",
+			"landgrantYN": "FALSE",
+			"census_region": "Northeast",
+			"census_division": "New England",
+			"city": "New Haven",
+			"state": "CT"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-72.926688, 41.311158]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"uni_name": "Catholic University of America",
+			"ISTandF": "44060",
+			"ISTLOC": "62482",
+			"OOSLOC": "62482",
+			"ISTLOFFC": "62482",
+			"OOSLOFFC": "62482",
+			"ISTLWF": "48166",
+			"OOSLWF": "48166",
+			"PERCENTADMIT": "80",
+			"FUNDINGSOURCE": "Private",
+			"DegreeCOUNT": "8",
+			"url": "www.cua.edu",
+			"landgrantYN": "FALSE",
+			"census_region": "South",
+			"census_division": "South Atlantic",
+			"city": "Washington",
+			"state": "DC"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-76.998961, 38.935796]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"uni_name": "George Washington University",
+			"ISTandF": "53518",
+			"ISTLOC": "69368",
+			"OOSLOC": "69368",
+			"ISTLOFFC": "69368",
+			"OOSLOFFC": "69368",
+			"ISTLWF": "56368",
+			"OOSLWF": "56368",
+			"PERCENTADMIT": "40",
+			"FUNDINGSOURCE": "Private",
+			"DegreeCOUNT": "1",
+			"url": "www.gwu.edu",
+			"landgrantYN": "FALSE",
+			"census_region": "South",
+			"census_division": "South Atlantic",
+			"city": "Washington",
+			"state": "DC"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-77.047871, 38.89865]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"uni_name": "Georgetown University",
+			"ISTandF": "52300",
+			"ISTLOC": "71580",
+			"OOSLOC": "71580",
+			"ISTLOFFC": "NULL",
+			"OOSLOFFC": "NULL",
+			"ISTLWF": "NULL",
+			"OOSLWF": "NULL",
+			"PERCENTADMIT": "17",
+			"FUNDINGSOURCE": "Private",
+			"DegreeCOUNT": "1",
+			"url": "www.georgetown.edu",
+			"landgrantYN": "FALSE",
+			"census_region": "South",
+			"census_division": "South Atlantic",
+			"city": "Washington",
+			"state": "DC"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-77.073463, 38.908809]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"uni_name": "Howard University",
+			"ISTandF": "25697",
+			"ISTLOC": "43201",
+			"OOSLOC": "43201",
+			"ISTLOFFC": "NULL",
+			"OOSLOFFC": "NULL",
+			"ISTLWF": "NULL",
+			"OOSLWF": "NULL",
+			"PERCENTADMIT": "30",
+			"FUNDINGSOURCE": "Private",
+			"DegreeCOUNT": "1",
+			"url": "www.howard.edu",
+			"landgrantYN": "FALSE",
+			"census_region": "South",
+			"census_division": "South Atlantic",
+			"city": "Washington",
+			"state": "DC"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-77.019478, 38.920739]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"uni_name": "University of the District of Columbia",
+			"ISTandF": "5756",
+			"ISTLOC": "NULL",
+			"OOSLOC": "NULL",
+			"ISTLOFFC": "28188",
+			"OOSLOFFC": "34524",
+			"ISTLWF": "11763",
+			"OOSLWF": "18099",
+			"PERCENTADMIT": "NULL",
+			"FUNDINGSOURCE": "Public",
+			"DegreeCOUNT": "4",
+			"url": "www.udc.edu",
+			"landgrantYN": "TRUE",
+			"census_region": "South",
+			"census_division": "South Atlantic",
+			"city": "Washington",
+			"state": "DC"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-77.066247, 38.943819]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"uni_name": "University of Delaware",
+			"ISTandF": "13160",
+			"ISTLOC": "27792",
+			"OOSLOC": "47782",
+			"ISTLOFFC": "27792",
+			"OOSLOFFC": "47782",
+			"ISTLWF": "15460",
+			"OOSLWF": "35450",
+			"PERCENTADMIT": "70",
+			"FUNDINGSOURCE": "Public",
+			"DegreeCOUNT": "3",
+			"url": "www.udel.edu/",
+			"landgrantYN": "TRUE",
+			"census_region": "South",
+			"census_division": "South Atlantic",
+			"city": "Newark",
+			"state": "DE"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-75.752822, 39.679577]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"uni_name": "Florida Agricultural and Mechanical University",
+			"ISTandF": "5785",
+			"ISTLOC": "22881",
+			"OOSLOC": "34821",
+			"ISTLOFFC": "22865",
+			"OOSLOFFC": "34805",
+			"ISTLWF": "13169",
+			"OOSLWF": "25109",
+			"PERCENTADMIT": "31",
+			"FUNDINGSOURCE": "Public",
+			"DegreeCOUNT": "4",
+			"url": "www.famu.edu",
+			"landgrantYN": "TRUE",
+			"census_region": "South",
+			"census_division": "South Atlantic",
+			"city": "Tallahassee",
+			"state": "FL"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-84.290226, 30.428504]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"uni_name": "Florida Atlantic University",
+			"ISTandF": "4831",
+			"ISTLOC": "23359",
+			"OOSLOC": "35804",
+			"ISTLOFFC": "24021",
+			"OOSLOFFC": "36466",
+			"ISTLWF": "12554",
+			"OOSLWF": "24999",
+			"PERCENTADMIT": "60",
+			"FUNDINGSOURCE": "Public",
+			"DegreeCOUNT": "4",
+			"url": "www.fau.edu/",
+			"landgrantYN": "FALSE",
+			"census_region": "South",
+			"census_division": "South Atlantic",
+			"city": "Boca Raton",
+			"state": "FL"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-80.102978, 26.372421]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"uni_name": "Florida International University",
+			"ISTandF": "6556",
+			"ISTLOC": "23688",
+			"OOSLOC": "36086",
+			"ISTLOFFC": "25750",
+			"OOSLOFFC": "38148",
+			"ISTLWF": "15746",
+			"OOSLWF": "28144",
+			"PERCENTADMIT": "50",
+			"FUNDINGSOURCE": "Public",
+			"DegreeCOUNT": "7",
+			"url": "www.fiu.edu",
+			"landgrantYN": "FALSE",
+			"census_region": "South",
+			"census_division": "South Atlantic",
+			"city": "Miami",
+			"state": "FL"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-80.377591, 25.757111]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"uni_name": "Florida State University",
+			"ISTandF": "5656",
+			"ISTLOC": "21774",
+			"OOSLOC": "34904",
+			"ISTLOFFC": "21774",
+			"OOSLOFFC": "34904",
+			"ISTLWF": "11316",
+			"OOSLWF": "24446",
+			"PERCENTADMIT": "58",
+			"FUNDINGSOURCE": "Public",
+			"DegreeCOUNT": "2",
+			"url": "www.fsu.edu",
+			"landgrantYN": "FALSE",
+			"census_region": "South",
+			"census_division": "South Atlantic",
+			"city": "Tallahassee",
+			"state": "FL"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-84.291921, 30.440756]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"uni_name": "University of Central Florida",
+			"ISTandF": "6368",
+			"ISTLOC": "22254",
+			"OOSLOC": "38353",
+			"ISTLOFFC": "22254",
+			"OOSLOFFC": "38353",
+			"ISTLWF": "12490",
+			"OOSLWF": "28589",
+			"PERCENTADMIT": "50",
+			"FUNDINGSOURCE": "Public",
+			"DegreeCOUNT": "1",
+			"url": "www.ucf.edu/",
+			"landgrantYN": "FALSE",
+			"census_region": "South",
+			"census_division": "South Atlantic",
+			"city": "Orlando",
+			"state": "FL"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-81.198805, 28.60106]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"uni_name": "University of Florida",
+			"ISTandF": "6381",
+			"ISTLOC": "21131",
+			"OOSLOC": "43409",
+			"ISTLOFFC": "21131",
+			"OOSLOFFC": "43409",
+			"ISTLWF": "11221",
+			"OOSLWF": "33499",
+			"PERCENTADMIT": "46",
+			"FUNDINGSOURCE": "Public",
+			"DegreeCOUNT": "17",
+			"url": "www.ufl.edu/",
+			"landgrantYN": "TRUE",
+			"census_region": "South",
+			"census_division": "South Atlantic",
+			"city": "Gainesville",
+			"state": "FL"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-82.347911, 29.64629]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"uni_name": "University of Miami",
+			"ISTandF": "48484",
+			"ISTLOC": "66274",
+			"OOSLOC": "66274",
+			"ISTLOFFC": "69534",
+			"OOSLOFFC": "69534",
+			"ISTLWF": "52608",
+			"OOSLWF": "52608",
+			"PERCENTADMIT": "38",
+			"FUNDINGSOURCE": "Private",
+			"DegreeCOUNT": "7",
+			"url": "www.miami.edu/",
+			"landgrantYN": "FALSE",
+			"census_region": "South",
+			"census_division": "South Atlantic",
+			"city": "Coral Gables",
+			"state": "FL"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-80.278662, 25.72126]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"uni_name": "University of South Florida-Main Campus",
+			"ISTandF": "6410",
+			"ISTLOC": "21410",
+			"OOSLOC": "32324",
+			"ISTLOFFC": "21410",
+			"OOSLOFFC": "32324",
+			"ISTLWF": "11710",
+			"OOSLWF": "22624",
+			"PERCENTADMIT": "47",
+			"FUNDINGSOURCE": "Public",
+			"DegreeCOUNT": "3",
+			"url": "www.usf.edu",
+			"landgrantYN": "FALSE",
+			"census_region": "South",
+			"census_division": "South Atlantic",
+			"city": "Tampa",
+			"state": "FL"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-82.413232, 28.061458]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"uni_name": "Georgia Institute of Technology-Main Campus",
+			"ISTandF": "12418",
+			"ISTLOC": "28770",
+			"OOSLOC": "49366",
+			"ISTLOFFC": "31404",
+			"OOSLOFFC": "52000",
+			"ISTLWF": "17278",
+			"OOSLWF": "37874",
+			"PERCENTADMIT": "26",
+			"FUNDINGSOURCE": "Public",
+			"DegreeCOUNT": "14",
+			"url": "www.gatech.edu",
+			"landgrantYN": "FALSE",
+			"census_region": "South",
+			"census_division": "South Atlantic",
+			"city": "Atlanta",
+			"state": "GA"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-84.394832, 33.77242]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"uni_name": "Georgia State University",
+			"ISTandF": "9112",
+			"ISTLOC": "26014",
+			"OOSLOC": "40873",
+			"ISTLOFFC": "25062",
+			"OOSLOFFC": "39921",
+			"ISTLWF": "12802",
+			"OOSLWF": "27661",
+			"PERCENTADMIT": "59",
+			"FUNDINGSOURCE": "Public",
+			"DegreeCOUNT": "2",
+			"url": "www.gsu.edu",
+			"landgrantYN": "FALSE",
+			"census_region": "South",
+			"census_division": "South Atlantic",
+			"city": "Atlanta",
+			"state": "GA"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-84.38667, 33.7527]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"uni_name": "Kennesaw State University",
+			"ISTandF": "6347",
+			"ISTLOC": "25773",
+			"OOSLOC": "36755",
+			"ISTLOFFC": "25773",
+			"OOSLOFFC": "36755",
+			"ISTLWF": "14306",
+			"OOSLWF": "25288",
+			"PERCENTADMIT": "59",
+			"FUNDINGSOURCE": "Public",
+			"DegreeCOUNT": "1",
+			"url": "www.kennesaw.edu",
+			"landgrantYN": "FALSE",
+			"census_region": "South",
+			"census_division": "South Atlantic",
+			"city": "Kennesaw",
+			"state": "GA"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-84.583052, 34.038807]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"uni_name": "Savannah College of Art and Design",
+			"ISTandF": "36410",
+			"ISTLOC": "56372",
+			"OOSLOC": "56372",
+			"ISTLOFFC": "52952",
+			"OOSLOFFC": "52952",
+			"ISTLWF": "42017",
+			"OOSLWF": "42017",
+			"PERCENTADMIT": "72",
+			"FUNDINGSOURCE": "Private",
+			"DegreeCOUNT": "6",
+			"url": "www.scad.edu",
+			"landgrantYN": "FALSE",
+			"census_region": "South",
+			"census_division": "South Atlantic",
+			"city": "Savannah",
+			"state": "GA"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-81.093849, 32.072963]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"uni_name": "Savannah Technical College",
+			"ISTandF": "2744",
+			"ISTLOC": "NULL",
+			"OOSLOC": "NULL",
+			"ISTLOFFC": "16284",
+			"OOSLOFFC": "18420",
+			"ISTLWF": "6474",
+			"OOSLWF": "8610",
+			"PERCENTADMIT": "NULL",
+			"FUNDINGSOURCE": "Public",
+			"DegreeCOUNT": "3",
+			"url": "www.savannahtech.edu",
+			"landgrantYN": "FALSE",
+			"census_region": "South",
+			"census_division": "South Atlantic",
+			"city": "Savannah",
+			"state": "GA"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-81.114753, 32.023211]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"uni_name": "University of Georgia",
+			"ISTandF": "11818",
+			"ISTLOC": "26404",
+			"OOSLOC": "44978",
+			"ISTLOFFC": "24840",
+			"OOSLOFFC": "43414",
+			"ISTLWF": "16884",
+			"OOSLWF": "35458",
+			"PERCENTADMIT": "54",
+			"FUNDINGSOURCE": "Public",
+			"DegreeCOUNT": "5",
+			"url": "www.uga.edu",
+			"landgrantYN": "TRUE",
+			"census_region": "South",
+			"census_division": "South Atlantic",
+			"city": "Athens",
+			"state": "GA"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-83.374039, 33.956262]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"uni_name": "University of Hawaii at Manoa",
+			"ISTandF": "11754",
+			"ISTLOC": "29518",
+			"OOSLOC": "51550",
+			"ISTLOFFC": "29518",
+			"OOSLOFFC": "51550",
+			"ISTLWF": "15500",
+			"OOSLWF": "37532",
+			"PERCENTADMIT": "85",
+			"FUNDINGSOURCE": "Public",
+			"DegreeCOUNT": "4",
+			"url": "www.manoa.hawaii.edu",
+			"landgrantYN": "TRUE",
+			"census_region": "West",
+			"census_division": "Pacific",
+			"city": "Honolulu",
+			"state": "HI"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-157.818979, 21.298598]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"uni_name": "Iowa State University",
+			"ISTandF": "8636",
+			"ISTLOC": "20606",
+			"OOSLOC": "34442",
+			"ISTLOFFC": "20606",
+			"OOSLOFFC": "34442",
+			"ISTLWF": "12060",
+			"OOSLWF": "25896",
+			"PERCENTADMIT": "87",
+			"FUNDINGSOURCE": "Public",
+			"DegreeCOUNT": "14",
+			"url": "www.iastate.edu",
+			"landgrantYN": "TRUE",
+			"census_region": "Midwest",
+			"census_division": "West North Central",
+			"city": "Ames",
+			"state": "IA"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-93.648504, 42.026212]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"uni_name": "University of Iowa",
+			"ISTandF": "8965",
+			"ISTLOC": "22607",
+			"OOSLOC": "44251",
+			"ISTLOFFC": "21923",
+			"OOSLOFFC": "43567",
+			"ISTLWF": "12765",
+			"OOSLWF": "34409",
+			"PERCENTADMIT": "84",
+			"FUNDINGSOURCE": "Public",
+			"DegreeCOUNT": "1",
+			"url": "www.uiowa.edu",
+			"landgrantYN": "FALSE",
+			"census_region": "Midwest",
+			"census_division": "West North Central",
+			"city": "Iowa City",
+			"state": "IA"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-91.536425, 41.661935]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"uni_name": "University of Idaho",
+			"ISTandF": "7488",
+			"ISTLOC": "21300",
+			"OOSLOC": "37624",
+			"ISTLOFFC": "21300",
+			"OOSLOFFC": "37624",
+			"ISTLWF": "12102",
+			"OOSLWF": "28426",
+			"PERCENTADMIT": "76",
+			"FUNDINGSOURCE": "Public",
+			"DegreeCOUNT": "6",
+			"url": "www.uidaho.edu",
+			"landgrantYN": "TRUE",
+			"census_region": "West",
+			"census_division": "Mountain",
+			"city": "Moscow",
+			"state": "ID"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-117.024296, 46.72894]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"uni_name": "Illinois Institute of Technology",
+			"ISTandF": "45864",
+			"ISTLOC": "63749",
+			"OOSLOC": "63749",
+			"ISTLOFFC": "63772",
+			"OOSLOFFC": "63772",
+			"ISTLWF": "52972",
+			"OOSLWF": "52972",
+			"PERCENTADMIT": "57",
+			"FUNDINGSOURCE": "Private",
+			"DegreeCOUNT": "5",
+			"url": "www.iit.edu",
+			"landgrantYN": "FALSE",
+			"census_region": "Midwest",
+			"census_division": "East North Central",
+			"city": "Chicago",
+			"state": "IL"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-87.627321, 41.8313]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"uni_name": "Judson University",
+			"ISTandF": "29434",
+			"ISTLOC": "42794",
+			"OOSLOC": "42794",
+			"ISTLOFFC": "40704",
+			"OOSLOFFC": "40704",
+			"ISTLWF": "34204",
+			"OOSLWF": "34204",
+			"PERCENTADMIT": "75",
+			"FUNDINGSOURCE": "Private",
+			"DegreeCOUNT": "3",
+			"url": "www.judsonu.edu",
+			"landgrantYN": "FALSE",
+			"census_region": "Midwest",
+			"census_division": "East North Central",
+			"city": "Elgin",
+			"state": "IL"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-88.289708, 42.05896]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"uni_name": "School of the Art Institute of Chicago",
+			"ISTandF": "49610",
+			"ISTLOC": "67290",
+			"OOSLOC": "67290",
+			"ISTLOFFC": "62920",
+			"OOSLOFFC": "62920",
+			"ISTLWF": "53400",
+			"OOSLWF": "53400",
+			"PERCENTADMIT": "59",
+			"FUNDINGSOURCE": "Private",
+			"DegreeCOUNT": "5",
+			"url": "www.saic.edu",
+			"landgrantYN": "FALSE",
+			"census_region": "Midwest",
+			"census_division": "East North Central",
+			"city": "Chicago",
+			"state": "IL"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-87.621411, 41.879646]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"uni_name": "Southern Illinois University-Carbondale",
+			"ISTandF": "13932",
+			"ISTLOC": "28595",
+			"OOSLOC": "42770",
+			"ISTLOFFC": "28595",
+			"OOSLOFFC": "42770",
+			"ISTLWF": "17973",
+			"OOSLWF": "32148",
+			"PERCENTADMIT": "77",
+			"FUNDINGSOURCE": "Public",
+			"DegreeCOUNT": "5",
+			"url": "www.siu.edu",
+			"landgrantYN": "FALSE",
+			"census_region": "Midwest",
+			"census_division": "East North Central",
+			"city": "Carbondale",
+			"state": "IL"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-89.217273, 37.714193]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"uni_name": "University of Illinois at Chicago",
+			"ISTandF": "13704",
+			"ISTLOC": "30662",
+			"OOSLOC": "43518",
+			"ISTLOFFC": "29632",
+			"OOSLOFFC": "42488",
+			"ISTLWF": "20232",
+			"OOSLWF": "33088",
+			"PERCENTADMIT": "74",
+			"FUNDINGSOURCE": "Public",
+			"DegreeCOUNT": "9",
+			"url": "www.uic.edu",
+			"landgrantYN": "TRUE",
+			"census_region": "Midwest",
+			"census_division": "West North Central",
+			"city": "Chicago",
+			"state": "IL"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-87.651145, 41.872651]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"uni_name": "University of Illinois at Urbana-Champaign",
+			"ISTandF": "15074",
+			"ISTLOC": "30082",
+			"OOSLOC": "46202",
+			"ISTLOFFC": "NULL",
+			"OOSLOFFC": "NULL",
+			"ISTLWF": "NULL",
+			"OOSLWF": "NULL",
+			"PERCENTADMIT": "60",
+			"FUNDINGSOURCE": "Public",
+			"DegreeCOUNT": "11",
+			"url": "www.illinois.edu/",
+			"landgrantYN": "TRUE",
+			"census_region": "Midwest",
+			"census_division": "West North Central",
+			"city": "Champaign",
+			"state": "IL"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-88.230309, 40.108864]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"uni_name": "Western Illinois University",
+			"ISTandF": "12897",
+			"ISTLOC": "25835",
+			"OOSLOC": "25835",
+			"ISTLOFFC": "27495",
+			"OOSLOFFC": "27495",
+			"ISTLWF": "17865",
+			"OOSLWF": "17865",
+			"PERCENTADMIT": "59",
+			"FUNDINGSOURCE": "Public",
+			"DegreeCOUNT": "1",
+			"url": "www.wiu.edu",
+			"landgrantYN": "FALSE",
+			"census_region": "Midwest",
+			"census_division": "East North Central",
+			"city": "Macomb",
+			"state": "IL"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-90.685235, 40.465621]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"uni_name": "Ball State University",
+			"ISTandF": "9774",
+			"ISTLOC": "24280",
+			"OOSLOC": "40448",
+			"ISTLOFFC": "24342",
+			"OOSLOFFC": "40510",
+			"ISTLWF": "15670",
+			"OOSLWF": "31838",
+			"PERCENTADMIT": "62",
+			"FUNDINGSOURCE": "Public",
+			"DegreeCOUNT": "17",
+			"url": "www.bsu.edu",
+			"landgrantYN": "FALSE",
+			"census_region": "Midwest",
+			"census_division": "East North Central",
+			"city": "Muncie",
+			"state": "IN"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-85.409043, 40.203431]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"uni_name": "Indiana University-Bloomington",
+			"ISTandF": "10533",
+			"ISTLOC": "24427",
+			"OOSLOC": "48739",
+			"ISTLOFFC": "24427",
+			"OOSLOFFC": "48739",
+			"ISTLWF": "15663",
+			"OOSLWF": "39975",
+			"PERCENTADMIT": "79",
+			"FUNDINGSOURCE": "Public",
+			"DegreeCOUNT": "4",
+			"url": "www.iub.edu",
+			"landgrantYN": "FALSE",
+			"census_region": "Midwest",
+			"census_division": "East North Central",
+			"city": "Bloomington",
+			"state": "IN"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-86.526904, 39.166383]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"uni_name": "Purdue University-Main Campus",
+			"ISTandF": "9992",
+			"ISTLOC": "22812",
+			"OOSLOC": "41614",
+			"ISTLOFFC": "21612",
+			"OOSLOFFC": "40414",
+			"ISTLWF": "14312",
+			"OOSLWF": "33114",
+			"PERCENTADMIT": "56",
+			"FUNDINGSOURCE": "Public",
+			"DegreeCOUNT": "1",
+			"url": "www.purdue.edu",
+			"landgrantYN": "TRUE",
+			"census_region": "Midwest",
+			"census_division": "East North Central",
+			"city": "West Lafayette",
+			"state": "IN"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-86.914435, 40.428206]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"uni_name": "University of Notre Dame",
+			"ISTandF": "51505",
+			"ISTLOC": "69395",
+			"OOSLOC": "69395",
+			"ISTLOFFC": "69395",
+			"OOSLOFFC": "69395",
+			"ISTLWF": "54505",
+			"OOSLWF": "54505",
+			"PERCENTADMIT": "19",
+			"FUNDINGSOURCE": "Private",
+			"DegreeCOUNT": "3",
+			"url": "www.nd.edu",
+			"landgrantYN": "FALSE",
+			"census_region": "Midwest",
+			"census_division": "East North Central",
+			"city": "Notre Dame",
+			"state": "IN"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-86.238959, 41.703058]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"uni_name": "Kansas State University",
+			"ISTandF": "10135",
+			"ISTLOC": "24339",
+			"OOSLOC": "39696",
+			"ISTLOFFC": "22663",
+			"OOSLOFFC": "38020",
+			"ISTLWF": "14735",
+			"OOSLWF": "30092",
+			"PERCENTADMIT": "94",
+			"FUNDINGSOURCE": "Public",
+			"DegreeCOUNT": "5",
+			"url": "www.k-state.edu",
+			"landgrantYN": "TRUE",
+			"census_region": "Midwest",
+			"census_division": "West North Central",
+			"city": "Manhattan",
+			"state": "KS"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-96.581077, 39.188648]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"uni_name": "University of Kansas",
+			"ISTandF": "10824",
+			"ISTLOC": "25306",
+			"OOSLOC": "41074",
+			"ISTLOFFC": "25306",
+			"OOSLOFFC": "41074",
+			"ISTLWF": "15030",
+			"OOSLWF": "30798",
+			"PERCENTADMIT": "93",
+			"FUNDINGSOURCE": "Public",
+			"DegreeCOUNT": "5",
+			"url": "www.ku.edu",
+			"landgrantYN": "FALSE",
+			"census_region": "Midwest",
+			"census_division": "West North Central",
+			"city": "Lawrence",
+			"state": "KS"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-95.247567, 38.958549]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"uni_name": "University of Kentucky",
+			"ISTandF": "11942",
+			"ISTLOC": "29530",
+			"OOSLOC": "45634",
+			"ISTLOFFC": "29530",
+			"OOSLOFFC": "45634",
+			"ISTLWF": "16672",
+			"OOSLWF": "32776",
+			"PERCENTADMIT": "91",
+			"FUNDINGSOURCE": "Public",
+			"DegreeCOUNT": "9",
+			"url": "www.uky.edu",
+			"landgrantYN": "TRUE",
+			"census_region": "South",
+			"census_division": "East South Central",
+			"city": "Lexington",
+			"state": "KY"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-84.504747, 38.038911]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"uni_name": "University of Louisville",
+			"ISTandF": "11264",
+			"ISTLOC": "26450",
+			"OOSLOC": "41472",
+			"ISTLOFFC": "27026",
+			"OOSLOFFC": "42048",
+			"ISTLWF": "19136",
+			"OOSLWF": "34158",
+			"PERCENTADMIT": "73",
+			"FUNDINGSOURCE": "Public",
+			"DegreeCOUNT": "2",
+			"url": "www.louisville.edu",
+			"landgrantYN": "FALSE",
+			"census_region": "South",
+			"census_division": "East South Central",
+			"city": "Louisville",
+			"state": "KY"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-85.758843, 38.215752]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"uni_name": "Louisiana State University and Agricultural & Mechanical College",
+			"ISTandF": "11374",
+			"ISTLOC": "29704",
+			"OOSLOC": "46381",
+			"ISTLOFFC": "33966",
+			"OOSLOFFC": "50643",
+			"ISTLWF": "17954",
+			"OOSLWF": "34631",
+			"PERCENTADMIT": "76",
+			"FUNDINGSOURCE": "Public",
+			"DegreeCOUNT": "6",
+			"url": "www.lsu.edu",
+			"landgrantYN": "TRUE",
+			"census_region": "South",
+			"census_division": "West South Central",
+			"city": "Baton Rouge",
+			"state": "LA"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-91.178921, 30.414986]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"uni_name": "Louisiana State University and Agricultural & Mechanical College",
+			"ISTandF": "11374",
+			"ISTLOC": "29704",
+			"OOSLOC": "46381",
+			"ISTLOFFC": "33966",
+			"OOSLOFFC": "50643",
+			"ISTLWF": "17954",
+			"OOSLWF": "34631",
+			"PERCENTADMIT": "76",
+			"FUNDINGSOURCE": "Public",
+			"DegreeCOUNT": "6",
+			"url": "www.lsu.edu",
+			"landgrantYN": "TRUE",
+			"census_region": "South",
+			"census_division": "West South Central",
+			"city": "Baton Rouge",
+			"state": "LA"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-91.178921, 30.414986]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"uni_name": "Louisiana Tech University",
+			"ISTandF": "9645",
+			"ISTLOC": "20364",
+			"OOSLOC": "29277",
+			"ISTLOFFC": "22521",
+			"OOSLOFFC": "31434",
+			"ISTLWF": "17625",
+			"OOSLWF": "26538",
+			"PERCENTADMIT": "63",
+			"FUNDINGSOURCE": "Public",
+			"DegreeCOUNT": "3",
+			"url": "www.latech.edu",
+			"landgrantYN": "FALSE",
+			"census_region": "South",
+			"census_division": "West South Central",
+			"city": "Ruston",
+			"state": "LA"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-92.649963, 32.528297]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"uni_name": "Tulane University of Louisiana",
+			"ISTandF": "52960",
+			"ISTLOC": "69764",
+			"OOSLOC": "69764",
+			"ISTLOFFC": "69764",
+			"OOSLOFFC": "69764",
+			"ISTLWF": "59164",
+			"OOSLWF": "59164",
+			"PERCENTADMIT": "26",
+			"FUNDINGSOURCE": "Private",
+			"DegreeCOUNT": "6",
+			"url": "tulane.edu",
+			"landgrantYN": "FALSE",
+			"census_region": "South",
+			"census_division": "West South Central",
+			"city": "New Orleans",
+			"state": "LA"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-90.120409, 29.939696]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"uni_name": "University of Louisiana at Lafayette",
+			"ISTandF": "9888",
+			"ISTLOC": "24775",
+			"OOSLOC": "38503",
+			"ISTLOFFC": "24812",
+			"OOSLOFFC": "38540",
+			"ISTLWF": "15066",
+			"OOSLWF": "28794",
+			"PERCENTADMIT": "51",
+			"FUNDINGSOURCE": "Public",
+			"DegreeCOUNT": "4",
+			"url": "www.louisiana.edu",
+			"landgrantYN": "FALSE",
+			"census_region": "South",
+			"census_division": "West South Central",
+			"city": "Lafayette",
+			"state": "LA"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-92.01941, 30.215283]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"uni_name": "University of New Orleans",
+			"ISTandF": "23816",
+			"ISTLOC": "NULL",
+			"OOSLOC": "NULL",
+			"ISTLOFFC": "NULL",
+			"OOSLOFFC": "NULL",
+			"ISTLWF": "NULL",
+			"OOSLWF": "NULL",
+			"PERCENTADMIT": "NULL",
+			"FUNDINGSOURCE": "Public",
+			"DegreeCOUNT": "5",
+			"url": "uno.edu",
+			"landgrantYN": "FALSE",
+			"census_region": "South",
+			"census_division": "West South Central",
+			"city": "New Orleans",
+			"state": "LA"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-90.120409, 29.939696]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"uni_name": "Boston Architectural College",
+			"ISTandF": "21174",
+			"ISTLOC": "NULL",
+			"OOSLOC": "NULL",
+			"ISTLOFFC": "40654",
+			"OOSLOFFC": "40654",
+			"ISTLWF": "25408",
+			"OOSLWF": "25408",
+			"PERCENTADMIT": "NULL",
+			"FUNDINGSOURCE": "Private",
+			"DegreeCOUNT": "13",
+			"url": "www.the-bac.edu",
+			"landgrantYN": "FALSE",
+			"census_region": "Northeast",
+			"census_division": "New England",
+			"city": "Boston",
+			"state": "MA"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-71.085851, 42.34867]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"uni_name": "Boston University",
+			"ISTandF": "52082",
+			"ISTLOC": "70302",
+			"OOSLOC": "70302",
+			"ISTLOFFC": "70302",
+			"OOSLOFFC": "70302",
+			"ISTLWF": "56882",
+			"OOSLWF": "56882",
+			"PERCENTADMIT": "29",
+			"FUNDINGSOURCE": "Private",
+			"DegreeCOUNT": "5",
+			"url": "www.bu.edu",
+			"landgrantYN": "FALSE",
+			"census_region": "Northeast",
+			"census_division": "New England",
+			"city": "Boston",
+			"state": "MA"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-71.09984, 42.349581]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"uni_name": "Harvard University",
+			"ISTandF": "48949",
+			"ISTLOC": "69600",
+			"OOSLOC": "69600",
+			"ISTLOFFC": "NULL",
+			"OOSLOFFC": "NULL",
+			"ISTLWF": "NULL",
+			"OOSLWF": "NULL",
+			"PERCENTADMIT": "5",
+			"FUNDINGSOURCE": "Private",
+			"DegreeCOUNT": "11",
+			"url": "www.harvard.edu",
+			"landgrantYN": "FALSE",
+			"census_region": "Northeast",
+			"census_division": "New England",
+			"city": "Cambridge",
+			"state": "MA"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-71.118313, 42.374471]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"uni_name": "Massachusetts College of Art and Design",
+			"ISTandF": "12700",
+			"ISTLOC": "29700",
+			"OOSLOC": "51400",
+			"ISTLOFFC": "29700",
+			"OOSLOFFC": "51400",
+			"ISTLWF": "20200",
+			"OOSLWF": "41900",
+			"PERCENTADMIT": "71",
+			"FUNDINGSOURCE": "Private",
+			"DegreeCOUNT": "2",
+			"url": "www.massart.edu",
+			"landgrantYN": "FALSE",
+			"census_region": "Northeast",
+			"census_division": "New England",
+			"city": "Boston",
+			"state": "MA"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-71.099275, 42.336862]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"uni_name": "Massachusetts Institute of Technology",
+			"ISTandF": "49892",
+			"ISTLOC": "67430",
+			"OOSLOC": "67430",
+			"ISTLOFFC": "50892",
+			"OOSLOFFC": "50892",
+			"ISTLWF": "52710",
+			"OOSLWF": "52710",
+			"PERCENTADMIT": "8",
+			"FUNDINGSOURCE": "Private",
+			"DegreeCOUNT": "13",
+			"url": "web.mit.edu/student/",
+			"landgrantYN": "FALSE",
+			"census_region": "Northeast",
+			"census_division": "New England",
+			"city": "Cambridge",
+			"state": "MA"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-71.092115, 42.360095]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"uni_name": "Northeastern University",
+			"ISTandF": "49497",
+			"ISTLOC": "68177",
+			"OOSLOC": "68177",
+			"ISTLOFFC": "68177",
+			"OOSLOFFC": "68177",
+			"ISTLWF": "52297",
+			"OOSLWF": "52297",
+			"PERCENTADMIT": "29",
+			"FUNDINGSOURCE": "Private",
+			"DegreeCOUNT": "11",
+			"url": "www.northeastern.edu",
+			"landgrantYN": "FALSE",
+			"census_region": "Northeast",
+			"census_division": "New England",
+			"city": "Boston",
+			"state": "MA"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-71.088782, 42.339992]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"uni_name": "Tufts University",
+			"ISTandF": "54318",
+			"ISTLOC": "70600",
+			"OOSLOC": "70600",
+			"ISTLOFFC": "70600",
+			"OOSLOFFC": "70600",
+			"ISTLWF": "62500",
+			"OOSLWF": "62500",
+			"PERCENTADMIT": "14",
+			"FUNDINGSOURCE": "Private",
+			"DegreeCOUNT": "4",
+			"url": "www.tufts.edu",
+			"landgrantYN": "FALSE",
+			"census_region": "Northeast",
+			"census_division": "New England",
+			"city": "Medford",
+			"state": "MA"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-71.120316, 42.408465]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"uni_name": "University of Massachusetts-Amherst",
+			"ISTandF": "15411",
+			"ISTLOC": "30069",
+			"OOSLOC": "48135",
+			"ISTLOFFC": "30069",
+			"OOSLOFFC": "48135",
+			"ISTLWF": "19811",
+			"OOSLWF": "37877",
+			"PERCENTADMIT": "60",
+			"FUNDINGSOURCE": "Public",
+			"DegreeCOUNT": "10",
+			"url": "www.umass.edu",
+			"landgrantYN": "TRUE",
+			"census_region": "Northeast",
+			"census_division": "New England",
+			"city": "Amherst",
+			"state": "MA"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-72.526728, 42.385999]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"uni_name": "University of Massachusetts-Boston",
+			"ISTandF": "13828",
+			"ISTLOC": "NULL",
+			"OOSLOC": "NULL",
+			"ISTLOFFC": "27784",
+			"OOSLOFFC": "46941",
+			"ISTLWF": "17584",
+			"OOSLWF": "36741",
+			"PERCENTADMIT": "69",
+			"FUNDINGSOURCE": "Public",
+			"DegreeCOUNT": "1",
+			"url": "www.umb.edu",
+			"landgrantYN": "TRUE",
+			"census_region": "Northeast",
+			"census_division": "New England",
+			"city": "Boston",
+			"state": "MA"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-71.036865, 42.312881]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"uni_name": "Wentworth Institute of Technology",
+			"ISTandF": "34977",
+			"ISTLOC": "54071",
+			"OOSLOC": "54071",
+			"ISTLOFFC": "54071",
+			"OOSLOFFC": "54071",
+			"ISTLWF": "43307",
+			"OOSLWF": "43307",
+			"PERCENTADMIT": "71",
+			"FUNDINGSOURCE": "Private",
+			"DegreeCOUNT": "6",
+			"url": "WWW.WIT.EDU",
+			"landgrantYN": "FALSE",
+			"census_region": "Northeast",
+			"census_division": "New England",
+			"city": "Boston",
+			"state": "MA"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-71.094983, 42.336632]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"uni_name": "Westfield State University",
+			"ISTandF": "9715",
+			"ISTLOC": "24076",
+			"OOSLOC": "30156",
+			"ISTLOFFC": "24076",
+			"OOSLOFFC": "30156",
+			"ISTLWF": "13387",
+			"OOSLWF": "19467",
+			"PERCENTADMIT": "78",
+			"FUNDINGSOURCE": "Public",
+			"DegreeCOUNT": "1",
+			"url": "www.westfield.ma.edu",
+			"landgrantYN": "FALSE",
+			"census_region": "Northeast",
+			"census_division": "New England",
+			"city": "Westfield",
+			"state": "MA"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-72.795673, 42.131589]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"uni_name": "Anne Arundel Community College",
+			"ISTandF": "7706",
+			"ISTLOC": "NULL",
+			"OOSLOC": "NULL",
+			"ISTLOFFC": "24328",
+			"OOSLOFFC": "29188",
+			"ISTLWF": "13798",
+			"OOSLWF": "18658",
+			"PERCENTADMIT": "NULL",
+			"FUNDINGSOURCE": "Public",
+			"DegreeCOUNT": "11",
+			"url": "www.aacc.edu",
+			"landgrantYN": "FALSE",
+			"census_region": "South",
+			"census_division": "South Atlantic",
+			"city": "Arnold",
+			"state": "MD"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-76.512223, 39.049813]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"uni_name": "Goucher College",
+			"ISTandF": "43440",
+			"ISTLOC": "59810",
+			"OOSLOC": "59810",
+			"ISTLOFFC": "55840",
+			"OOSLOFFC": "55840",
+			"ISTLWF": "47340",
+			"OOSLWF": "47340",
+			"PERCENTADMIT": "79",
+			"FUNDINGSOURCE": "Private",
+			"DegreeCOUNT": "1",
+			"url": "www.goucher.edu",
+			"landgrantYN": "FALSE",
+			"census_region": "South",
+			"census_division": "South Atlantic",
+			"city": "Baltimore",
+			"state": "MD"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-76.594843, 39.410175]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"uni_name": "Maryland Institute College of Art",
+			"ISTandF": "46990",
+			"ISTLOC": "62850",
+			"OOSLOC": "62850",
+			"ISTLOFFC": "60460",
+			"OOSLOFFC": "60460",
+			"ISTLWF": "49990",
+			"OOSLWF": "49990",
+			"PERCENTADMIT": "57",
+			"FUNDINGSOURCE": "Private",
+			"DegreeCOUNT": "1",
+			"url": "www.mica.edu",
+			"landgrantYN": "FALSE",
+			"census_region": "South",
+			"census_division": "South Atlantic",
+			"city": "Baltimore",
+			"state": "MD"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-76.621033, 39.308792]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"uni_name": "Morgan State University",
+			"ISTandF": "7766",
+			"ISTLOC": "23296",
+			"OOSLOC": "33362",
+			"ISTLOFFC": "25187",
+			"OOSLOFFC": "35253",
+			"ISTLWF": "13510",
+			"OOSLWF": "23576",
+			"PERCENTADMIT": "60",
+			"FUNDINGSOURCE": "Public",
+			"DegreeCOUNT": "3",
+			"url": "www.morgan.edu",
+			"landgrantYN": "FALSE",
+			"census_region": "South",
+			"census_division": "South Atlantic",
+			"city": "Baltimore",
+			"state": "MD"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-76.584238, 39.344235]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"uni_name": "Salisbury University",
+			"ISTandF": "9582",
+			"ISTLOC": "25062",
+			"OOSLOC": "34102",
+			"ISTLOFFC": "25062",
+			"OOSLOFFC": "34102",
+			"ISTLWF": "13582",
+			"OOSLWF": "22622",
+			"PERCENTADMIT": "66",
+			"FUNDINGSOURCE": "Public",
+			"DegreeCOUNT": "1",
+			"url": "www.salisbury.edu",
+			"landgrantYN": "FALSE",
+			"census_region": "South",
+			"census_division": "South Atlantic",
+			"city": "Salisbury",
+			"state": "MD"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-75.605705, 38.345447]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"uni_name": "University of Maryland-College Park",
+			"ISTandF": "10399",
+			"ISTLOC": "26491",
+			"OOSLOC": "49698",
+			"ISTLOFFC": "29763",
+			"OOSLOFFC": "52970",
+			"ISTLWF": "15715",
+			"OOSLWF": "38922",
+			"PERCENTADMIT": "48",
+			"FUNDINGSOURCE": "Public",
+			"DegreeCOUNT": "8",
+			"url": "www.umd.edu",
+			"landgrantYN": "TRUE",
+			"census_region": "South",
+			"census_division": "South Atlantic",
+			"city": "College Park",
+			"state": "MD"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-76.944721, 38.988178]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"uni_name": "University of Maine at Augusta",
+			"ISTandF": "7808",
+			"ISTLOC": "NULL",
+			"OOSLOC": "NULL",
+			"ISTLOFFC": "19808",
+			"OOSLOFFC": "29498",
+			"ISTLWF": "12608",
+			"OOSLWF": "22298",
+			"PERCENTADMIT": "NULL",
+			"FUNDINGSOURCE": "Public",
+			"DegreeCOUNT": "1",
+			"url": "www.uma.edu/",
+			"landgrantYN": "TRUE",
+			"census_region": "Northeast",
+			"census_division": "New England",
+			"city": "Augusta",
+			"state": "ME"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-69.796396, 44.337746]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"uni_name": "Andrews University",
+			"ISTandF": "28436",
+			"ISTLOC": "39714",
+			"OOSLOC": "39714",
+			"ISTLOFFC": "44704",
+			"OOSLOFFC": "44704",
+			"ISTLWF": "30636",
+			"OOSLWF": "30636",
+			"PERCENTADMIT": "40",
+			"FUNDINGSOURCE": "Private",
+			"DegreeCOUNT": "3",
+			"url": "www.andrews.edu",
+			"landgrantYN": "FALSE",
+			"census_region": "Midwest",
+			"census_division": "East North Central",
+			"city": "Berrien Springs",
+			"state": "MI"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-86.355815, 41.963859]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"uni_name": "Eastern Michigan University",
+			"ISTandF": "12019",
+			"ISTLOC": "25307",
+			"OOSLOC": "42488",
+			"ISTLOFFC": "23565",
+			"OOSLOFFC": "40746",
+			"ISTLWF": "17073",
+			"OOSLWF": "34254",
+			"PERCENTADMIT": "73",
+			"FUNDINGSOURCE": "Public",
+			"DegreeCOUNT": "2",
+			"url": "www.emich.edu",
+			"landgrantYN": "FALSE",
+			"census_region": "Midwest",
+			"census_division": "East North Central",
+			"city": "Ypsilanti",
+			"state": "MI"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-83.742769, 42.275921]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"uni_name": "Ferris State University",
+			"ISTandF": "11628",
+			"ISTLOC": "23556",
+			"OOSLOC": "30516",
+			"ISTLOFFC": "21942",
+			"OOSLOFFC": "28902",
+			"ISTLWF": "14270",
+			"OOSLWF": "21230",
+			"PERCENTADMIT": "78",
+			"FUNDINGSOURCE": "Public",
+			"DegreeCOUNT": "2",
+			"url": "www.ferris.edu/",
+			"landgrantYN": "FALSE",
+			"census_region": "Midwest",
+			"census_division": "East North Central",
+			"city": "Big Rapids",
+			"state": "MI"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-85.483509, 43.687464]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"uni_name": "Lawrence Technological University",
+			"ISTandF": "51846",
+			"ISTLOC": "NULL",
+			"OOSLOC": "NULL",
+			"ISTLOFFC": "NULL",
+			"OOSLOFFC": "NULL",
+			"ISTLWF": "NULL",
+			"OOSLWF": "NULL",
+			"PERCENTADMIT": "NULL",
+			"FUNDINGSOURCE": "Private",
+			"DegreeCOUNT": "6",
+			"url": "ltu.edu",
+			"landgrantYN": "FALSE",
+			"census_region": "Midwest",
+			"census_division": "East North Central",
+			"city": "Southfield",
+			"state": "MI"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-83.2497967, 42.4755011]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"uni_name": "Michigan State University",
+			"ISTandF": "14460",
+			"ISTLOC": "28478",
+			"OOSLOC": "53424",
+			"ISTLOFFC": "28478",
+			"OOSLOFFC": "53424",
+			"ISTLWF": "18452",
+			"OOSLWF": "43398",
+			"PERCENTADMIT": "66",
+			"FUNDINGSOURCE": "Public",
+			"DegreeCOUNT": "8",
+			"url": "https://www.msu.edu",
+			"landgrantYN": "TRUE",
+			"census_region": "Midwest",
+			"census_division": "East North Central",
+			"city": "East Lansing",
+			"state": "MI"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-84.476111, 42.73212]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"uni_name": "University of Detroit Mercy",
+			"ISTandF": "41158",
+			"ISTLOC": "57378",
+			"OOSLOC": "57378",
+			"ISTLOFFC": "59152",
+			"OOSLOFFC": "59152",
+			"ISTLWF": "49702",
+			"OOSLWF": "49702",
+			"PERCENTADMIT": "78",
+			"FUNDINGSOURCE": "Private",
+			"DegreeCOUNT": "4",
+			"url": "www.udmercy.edu",
+			"landgrantYN": "FALSE",
+			"census_region": "Midwest",
+			"census_division": "East North Central",
+			"city": "Detroit",
+			"state": "MI"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-83.138369, 42.417168]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"uni_name": "University of Michigan-Ann Arbor",
+			"ISTandF": "14826",
+			"ISTLOC": "29526",
+			"OOSLOC": "62176",
+			"ISTLOFFC": "29526",
+			"OOSLOFFC": "62176",
+			"ISTLWF": "20688",
+			"OOSLWF": "53338",
+			"PERCENTADMIT": "29",
+			"FUNDINGSOURCE": "Public",
+			"DegreeCOUNT": "11",
+			"url": "www.umich.edu",
+			"landgrantYN": "FALSE",
+			"census_region": "Midwest",
+			"census_division": "East North Central",
+			"city": "Ann Arbor",
+			"state": "MI"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-83.742769, 42.275921]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"uni_name": "Wayne State University",
+			"ISTandF": "12729",
+			"ISTLOC": "26289",
+			"OOSLOC": "40763",
+			"ISTLOFFC": "28491",
+			"OOSLOFFC": "42965",
+			"ISTLWF": "18771",
+			"OOSLWF": "33245",
+			"PERCENTADMIT": "81",
+			"FUNDINGSOURCE": "Public",
+			"DegreeCOUNT": "2",
+			"url": "www.wayne.edu",
+			"landgrantYN": "FALSE",
+			"census_region": "Midwest",
+			"census_division": "East North Central",
+			"city": "Detroit",
+			"state": "MI"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-83.138369, 42.417168]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"uni_name": "Western Michigan University",
+			"ISTandF": "11943",
+			"ISTLOC": "25139",
+			"OOSLOC": "27895",
+			"ISTLOFFC": "25139",
+			"OOSLOFFC": "27895",
+			"ISTLWF": "16929",
+			"OOSLWF": "19685",
+			"PERCENTADMIT": "82",
+			"FUNDINGSOURCE": "Public",
+			"DegreeCOUNT": "2",
+			"url": "https://wmich.edu/",
+			"landgrantYN": "FALSE",
+			"census_region": "Midwest",
+			"census_division": "East North Central",
+			"city": "Kalamazoo",
+			"state": "MI"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-85.61512, 42.282589]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"uni_name": "Dunwoody College of Technology",
+			"ISTandF": "21610",
+			"ISTLOC": "NULL",
+			"OOSLOC": "NULL",
+			"ISTLOFFC": "32508",
+			"OOSLOFFC": "32508",
+			"ISTLWF": "24858",
+			"OOSLWF": "24858",
+			"PERCENTADMIT": "67",
+			"FUNDINGSOURCE": "Private",
+			"DegreeCOUNT": "11",
+			"url": "www.dunwoody.edu",
+			"landgrantYN": "FALSE",
+			"census_region": "Midwest",
+			"census_division": "West North Central",
+			"city": "Minneapolis",
+			"state": "MN"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-93.290069, 44.973081]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"uni_name": "Minnesota State University-Mankato",
+			"ISTandF": "8164",
+			"ISTLOC": "20226",
+			"OOSLOC": "28278",
+			"ISTLOFFC": "18844",
+			"OOSLOFFC": "26896",
+			"ISTLWF": "11716",
+			"OOSLWF": "19768",
+			"PERCENTADMIT": "62",
+			"FUNDINGSOURCE": "Public",
+			"DegreeCOUNT": "2",
+			"url": "www.mnsu.edu",
+			"landgrantYN": "FALSE",
+			"census_region": "Midwest",
+			"census_division": "West North Central",
+			"city": "Mankato",
+			"state": "MN"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-93.99945, 44.146712]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"uni_name": "Saint Cloud State University",
+			"ISTandF": "8228",
+			"ISTLOC": "20686",
+			"OOSLOC": "28920",
+			"ISTLOFFC": "20686",
+			"OOSLOFFC": "28920",
+			"ISTLWF": "12128",
+			"OOSLWF": "20362",
+			"PERCENTADMIT": "85",
+			"FUNDINGSOURCE": "Public",
+			"DegreeCOUNT": "1",
+			"url": "www.stcloudstate.edu",
+			"landgrantYN": "FALSE",
+			"census_region": "Midwest",
+			"census_division": "West North Central",
+			"city": "Saint Cloud",
+			"state": "MN"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-94.153, 45.552418]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"uni_name": "University of Minnesota-Twin Cities",
+			"ISTandF": "14417",
+			"ISTLOC": "27469",
+			"OOSLOC": "39655",
+			"ISTLOFFC": "27469",
+			"OOSLOFFC": "39655",
+			"ISTLWF": "17617",
+			"OOSLWF": "29803",
+			"PERCENTADMIT": "44",
+			"FUNDINGSOURCE": "Public",
+			"DegreeCOUNT": "21",
+			"url": "twin-cities.umn.edu/",
+			"landgrantYN": "TRUE",
+			"census_region": "Midwest",
+			"census_division": "West North Central",
+			"city": "Minneapolis",
+			"state": "MN"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-93.235352, 44.977886]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"uni_name": "Drury University",
+			"ISTandF": "27015",
+			"ISTLOC": "39451",
+			"OOSLOC": "39451",
+			"ISTLOFFC": "37705",
+			"OOSLOFFC": "37705",
+			"ISTLWF": "31415",
+			"OOSLWF": "31415",
+			"PERCENTADMIT": "70",
+			"FUNDINGSOURCE": "Private",
+			"DegreeCOUNT": "2",
+			"url": "www.drury.edu",
+			"landgrantYN": "FALSE",
+			"census_region": "Midwest",
+			"census_division": "West North Central",
+			"city": "Springfield",
+			"state": "MO"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-93.285773, 37.219757]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"uni_name": "Missouri State University-Springfield",
+			"ISTandF": "7306",
+			"ISTLOC": "21062",
+			"OOSLOC": "28502",
+			"ISTLOFFC": "21062",
+			"OOSLOFFC": "28502",
+			"ISTLWF": "12525",
+			"OOSLWF": "19965",
+			"PERCENTADMIT": "84",
+			"FUNDINGSOURCE": "Public",
+			"DegreeCOUNT": "2",
+			"url": "www.missouristate.edu",
+			"landgrantYN": "FALSE",
+			"census_region": "Midwest",
+			"census_division": "West North Central",
+			"city": "Springfield",
+			"state": "MO"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-93.276821, 37.197983]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"uni_name": "Saint Louis University",
+			"ISTandF": "42166",
+			"ISTLOC": "57214",
+			"OOSLOC": "57214",
+			"ISTLOFFC": "57214",
+			"OOSLOFFC": "57214",
+			"ISTLWF": "46218",
+			"OOSLWF": "46218",
+			"PERCENTADMIT": "65",
+			"FUNDINGSOURCE": "Private",
+			"DegreeCOUNT": "1",
+			"url": "www.slu.edu",
+			"landgrantYN": "FALSE",
+			"census_region": "Midwest",
+			"census_division": "West North Central",
+			"city": "Saint Louis",
+			"state": "MO"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-90.23343, 38.636516]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"uni_name": "Southeast Missouri State University",
+			"ISTandF": "7185",
+			"ISTLOC": "21004",
+			"OOSLOC": "26539",
+			"ISTLOFFC": "21004",
+			"OOSLOFFC": "26539",
+			"ISTLWF": "12289",
+			"OOSLWF": "17824",
+			"PERCENTADMIT": "83",
+			"FUNDINGSOURCE": "Public",
+			"DegreeCOUNT": "2",
+			"url": "www.semo.edu",
+			"landgrantYN": "FALSE",
+			"census_region": "Midwest",
+			"census_division": "West North Central",
+			"city": "Cape Girardeau",
+			"state": "MO"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-89.529119, 37.31575]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"uni_name": "University of Missouri-Kansas City",
+			"ISTandF": "8011",
+			"ISTLOC": "23529",
+			"OOSLOC": "35311",
+			"ISTLOFFC": "23145",
+			"OOSLOFFC": "34927",
+			"ISTLWF": "13223",
+			"OOSLWF": "25005",
+			"PERCENTADMIT": "62",
+			"FUNDINGSOURCE": "Public",
+			"DegreeCOUNT": "3",
+			"url": "www.umkc.edu/",
+			"landgrantYN": "TRUE",
+			"census_region": "Midwest",
+			"census_division": "West North Central",
+			"city": "Kansas City",
+			"state": "MO"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-94.578039, 39.035366]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"uni_name": "Washington University in St Louis",
+			"ISTandF": "51533",
+			"ISTLOC": "71975",
+			"OOSLOC": "71975",
+			"ISTLOFFC": "71975",
+			"OOSLOFFC": "71975",
+			"ISTLWF": "57331",
+			"OOSLWF": "57331",
+			"PERCENTADMIT": "17",
+			"FUNDINGSOURCE": "Private",
+			"DegreeCOUNT": "11",
+			"url": "www.wustl.edu",
+			"landgrantYN": "FALSE",
+			"census_region": "Midwest",
+			"census_division": "West North Central",
+			"city": "Saint Louis",
+			"state": "MO"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-90.310604, 38.647929]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"uni_name": "Jackson State University",
+			"ISTandF": "7621",
+			"ISTLOC": "23096",
+			"OOSLOC": "33789",
+			"ISTLOFFC": "20221",
+			"OOSLOFFC": "30914",
+			"ISTLWF": "14121",
+			"OOSLWF": "24814",
+			"PERCENTADMIT": "63",
+			"FUNDINGSOURCE": "Public",
+			"DegreeCOUNT": "2",
+			"url": "www.jsums.edu",
+			"landgrantYN": "FALSE",
+			"census_region": "South",
+			"census_division": "East South Central",
+			"city": "Jackson",
+			"state": "MS"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-90.20663, 32.296781]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"uni_name": "Mississippi State University",
+			"ISTandF": "8318",
+			"ISTLOC": "24370",
+			"OOSLOC": "38410",
+			"ISTLOFFC": "24370",
+			"OOSLOFFC": "38410",
+			"ISTLWF": "14976",
+			"OOSLWF": "29016",
+			"PERCENTADMIT": "56",
+			"FUNDINGSOURCE": "Public",
+			"DegreeCOUNT": "6",
+			"url": "www.msstate.edu",
+			"landgrantYN": "TRUE",
+			"census_region": "South",
+			"census_division": "East South Central",
+			"city": "Mississippi State",
+			"state": "MS"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-88.790139, 33.454852]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"uni_name": "Montana State University",
+			"ISTandF": "7079",
+			"ISTLOC": "21129",
+			"OOSLOC": "38121",
+			"ISTLOFFC": "21129",
+			"OOSLOFFC": "38121",
+			"ISTLWF": "11879",
+			"OOSLWF": "28871",
+			"PERCENTADMIT": "83",
+			"FUNDINGSOURCE": "Public",
+			"DegreeCOUNT": "2",
+			"url": "www.montana.edu/",
+			"landgrantYN": "TRUE",
+			"census_region": "West",
+			"census_division": "Mountain",
+			"city": "Bozeman",
+			"state": "MT"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-111.048812, 45.666726]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"uni_name": "Appalachian State University",
+			"ISTandF": "7302",
+			"ISTLOC": "19012",
+			"OOSLOC": "33819",
+			"ISTLOFFC": "19573",
+			"OOSLOFFC": "34380",
+			"ISTLWF": "11139",
+			"OOSLWF": "25946",
+			"PERCENTADMIT": "68",
+			"FUNDINGSOURCE": "Public",
+			"DegreeCOUNT": "2",
+			"url": "www.appstate.edu/",
+			"landgrantYN": "FALSE",
+			"census_region": "South",
+			"census_division": "South Atlantic",
+			"city": "Boone",
+			"state": "NC"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-81.680234, 36.214844]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"uni_name": "East Carolina University",
+			"ISTandF": "7143",
+			"ISTLOC": "22000",
+			"OOSLOC": "38277",
+			"ISTLOFFC": "22000",
+			"OOSLOFFC": "38277",
+			"ISTLWF": "19605",
+			"OOSLWF": "35882",
+			"PERCENTADMIT": "70",
+			"FUNDINGSOURCE": "Public",
+			"DegreeCOUNT": "3",
+			"url": "www.ecu.edu",
+			"landgrantYN": "FALSE",
+			"census_region": "South",
+			"census_division": "South Atlantic",
+			"city": "Greenville",
+			"state": "NC"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-77.368291, 35.607186]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"uni_name": "North Carolina A & T State University",
+			"ISTandF": "6526",
+			"ISTLOC": "17886",
+			"OOSLOC": "30776",
+			"ISTLOFFC": "17886",
+			"OOSLOFFC": "30776",
+			"ISTLWF": "10626",
+			"OOSLWF": "23516",
+			"PERCENTADMIT": "54",
+			"FUNDINGSOURCE": "Public",
+			"DegreeCOUNT": "1",
+			"url": "www.ncat.edu",
+			"landgrantYN": "TRUE",
+			"census_region": "South",
+			"census_division": "South Atlantic",
+			"city": "Greensboro",
+			"state": "NC"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-79.770152, 36.076737]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"uni_name": "North Carolina State University at Raleigh",
+			"ISTandF": "9058",
+			"ISTLOC": "23700",
+			"OOSLOC": "42048",
+			"ISTLOFFC": "23700",
+			"OOSLOFFC": "42048",
+			"ISTLWF": "17082",
+			"OOSLWF": "35430",
+			"PERCENTADMIT": "48",
+			"FUNDINGSOURCE": "Public",
+			"DegreeCOUNT": "14",
+			"url": "www.ncsu.edu",
+			"landgrantYN": "TRUE",
+			"census_region": "South",
+			"census_division": "South Atlantic",
+			"city": "Raleigh",
+			"state": "NC"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-78.674517, 35.785111]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"uni_name": "University of North Carolina at Chapel Hill",
+			"ISTandF": "9005",
+			"ISTLOC": "25569",
+			"OOSLOC": "51152",
+			"ISTLOFFC": "25569",
+			"OOSLOFFC": "51152",
+			"ISTLWF": "14013",
+			"OOSLWF": "39596",
+			"PERCENTADMIT": "27",
+			"FUNDINGSOURCE": "Public",
+			"DegreeCOUNT": "3",
+			"url": "www.unc.edu",
+			"landgrantYN": "FALSE",
+			"census_region": "South",
+			"census_division": "South Atlantic",
+			"city": "Chapel Hill",
+			"state": "NC"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-79.050969, 35.911769]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"uni_name": "University of North Carolina at Charlotte",
+			"ISTandF": "6832",
+			"ISTLOC": "23647",
+			"OOSLOC": "37081",
+			"ISTLOFFC": "21421",
+			"OOSLOFFC": "34855",
+			"ISTLWF": "11595",
+			"OOSLWF": "25029",
+			"PERCENTADMIT": "62",
+			"FUNDINGSOURCE": "Public",
+			"DegreeCOUNT": "5",
+			"url": "www.uncc.edu",
+			"landgrantYN": "FALSE",
+			"census_region": "South",
+			"census_division": "South Atlantic",
+			"city": "Charlotte",
+			"state": "NC"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-80.730919, 35.306022]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"uni_name": "University of North Carolina at Greensboro",
+			"ISTandF": "7250",
+			"ISTLOC": "20659",
+			"OOSLOC": "35818",
+			"ISTLOFFC": "19622",
+			"OOSLOFFC": "34781",
+			"ISTLWF": "12278",
+			"OOSLWF": "27437",
+			"PERCENTADMIT": "74",
+			"FUNDINGSOURCE": "Public",
+			"DegreeCOUNT": "1",
+			"url": "www.uncg.edu",
+			"landgrantYN": "FALSE",
+			"census_region": "South",
+			"census_division": "South Atlantic",
+			"city": "Greensboro",
+			"state": "NC"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-79.809844, 36.067503]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"uni_name": "North Dakota State University-Main Campus",
+			"ISTandF": "8666",
+			"ISTLOC": "21452",
+			"OOSLOC": "33478",
+			"ISTLOFFC": "21452",
+			"OOSLOFFC": "33478",
+			"ISTLWF": "13992",
+			"OOSLWF": "26018",
+			"PERCENTADMIT": "93",
+			"FUNDINGSOURCE": "Public",
+			"DegreeCOUNT": "4",
+			"url": "https://www.ndsu.edu",
+			"landgrantYN": "TRUE",
+			"census_region": "Midwest",
+			"census_division": "West North Central",
+			"city": "Fargo",
+			"state": "ND"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-96.800838, 46.893127]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"uni_name": "University of Nebraska-Lincoln",
+			"ISTandF": "8978",
+			"ISTLOC": "25062",
+			"OOSLOC": "40182",
+			"ISTLOFFC": "24544",
+			"OOSLOFFC": "39664",
+			"ISTLWF": "14018",
+			"OOSLWF": "29138",
+			"PERCENTADMIT": "75",
+			"FUNDINGSOURCE": "Public",
+			"DegreeCOUNT": "6",
+			"url": "www.unl.edu/",
+			"landgrantYN": "TRUE",
+			"census_region": "Midwest",
+			"census_division": "West North Central",
+			"city": "Lincoln",
+			"state": "NE"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-96.700508, 40.817598]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"uni_name": "Plymouth State University",
+			"ISTandF": "13770",
+			"ISTLOC": "28314",
+			"OOSLOC": "36774",
+			"ISTLOFFC": "27324",
+			"OOSLOFFC": "35784",
+			"ISTLWF": "18858",
+			"OOSLWF": "27318",
+			"PERCENTADMIT": "79",
+			"FUNDINGSOURCE": "Public",
+			"DegreeCOUNT": "1",
+			"url": "www.plymouth.edu",
+			"landgrantYN": "FALSE",
+			"census_region": "Northeast",
+			"census_division": "New England",
+			"city": "Plymouth",
+			"state": "NH"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-71.691164, 43.757386]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"uni_name": "Kean University",
+			"ISTandF": "12107",
+			"ISTLOC": "29261",
+			"OOSLOC": "36163",
+			"ISTLOFFC": "27729",
+			"OOSLOFFC": "34631",
+			"ISTLWF": "17107",
+			"OOSLWF": "24009",
+			"PERCENTADMIT": "74",
+			"FUNDINGSOURCE": "Public",
+			"DegreeCOUNT": "1",
+			"url": "www.kean.edu",
+			"landgrantYN": "FALSE",
+			"census_region": "Northeast",
+			"census_division": "Middle Atlantic",
+			"city": "Union",
+			"state": "NJ"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-74.234668, 40.679429]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"uni_name": "New Jersey Institute of Technology",
+			"ISTandF": "16898",
+			"ISTLOC": "36498",
+			"OOSLOC": "51518",
+			"ISTLOFFC": "35798",
+			"OOSLOFFC": "50818",
+			"ISTLWF": "25398",
+			"OOSLWF": "40418",
+			"PERCENTADMIT": "59",
+			"FUNDINGSOURCE": "Public",
+			"DegreeCOUNT": "7",
+			"url": "www.njit.edu/",
+			"landgrantYN": "FALSE",
+			"census_region": "Northeast",
+			"census_division": "Middle Atlantic",
+			"city": "Newark",
+			"state": "NJ"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-74.177113, 40.741997]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"uni_name": "Princeton University",
+			"ISTandF": "47140",
+			"ISTLOC": "66150",
+			"OOSLOC": "66150",
+			"ISTLOFFC": "NULL",
+			"OOSLOFFC": "NULL",
+			"ISTLWF": "NULL",
+			"OOSLWF": "NULL",
+			"PERCENTADMIT": "7",
+			"FUNDINGSOURCE": "Private",
+			"DegreeCOUNT": "3",
+			"url": "www.princeton.edu",
+			"landgrantYN": "FALSE",
+			"census_region": "Northeast",
+			"census_division": "Middle Atlantic",
+			"city": "Princeton",
+			"state": "NJ"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-74.659365, 40.348732]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"uni_name": "Rowan University",
+			"ISTandF": "13422",
+			"ISTLOC": "31058",
+			"OOSLOC": "39526",
+			"ISTLOFFC": "30986",
+			"OOSLOFFC": "39454",
+			"ISTLWF": "20887",
+			"OOSLWF": "29355",
+			"PERCENTADMIT": "71",
+			"FUNDINGSOURCE": "Public",
+			"DegreeCOUNT": "1",
+			"url": "www.rowan.edu",
+			"landgrantYN": "FALSE",
+			"census_region": "Northeast",
+			"census_division": "Middle Atlantic",
+			"city": "Glassboro",
+			"state": "NJ"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-75.117974, 39.709768]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"uni_name": "Rutgers University-New Brunswic",
+			"ISTandF": "14638",
+			"ISTLOC": "31577",
+			"OOSLOC": "47518",
+			"ISTLOFFC": "37511",
+			"OOSLOFFC": "53452",
+			"ISTLWF": "19125",
+			"OOSLWF": "35066",
+			"PERCENTADMIT": "57",
+			"FUNDINGSOURCE": "Public",
+			"DegreeCOUNT": "9",
+			"url": "newbrunswick.rutgers.edu/",
+			"landgrantYN": "TRUE",
+			"census_region": "Northeast",
+			"census_division": "Middle Atlantic",
+			"city": "New Brunswick",
+			"state": "NJ"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-74.446251, 40.498769]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"uni_name": "University of New Mexico-Main Campus",
+			"ISTandF": "7448",
+			"ISTLOC": "22146",
+			"OOSLOC": "36736",
+			"ISTLOFFC": "23468",
+			"OOSLOFFC": "38058",
+			"ISTLWF": "12484",
+			"OOSLWF": "27074",
+			"PERCENTADMIT": "58",
+			"FUNDINGSOURCE": "Public",
+			"DegreeCOUNT": "10",
+			"url": "www.unm.edu",
+			"landgrantYN": "FALSE",
+			"census_region": "West",
+			"census_division": "Mountain",
+			"city": "Albuquerque",
+			"state": "NM"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-106.620155, 35.083868]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"uni_name": "University of Nevada-Las Vegas",
+			"ISTandF": "7665",
+			"ISTLOC": "23451",
+			"OOSLOC": "37639",
+			"ISTLOFFC": "24005",
+			"OOSLOFFC": "38193",
+			"ISTLWF": "14719",
+			"OOSLWF": "28907",
+			"PERCENTADMIT": "83",
+			"FUNDINGSOURCE": "Public",
+			"DegreeCOUNT": "5",
+			"url": "www.unlv.edu/",
+			"landgrantYN": "FALSE",
+			"census_region": "West",
+			"census_division": "Mountain",
+			"city": "Las Vegas",
+			"state": "NV"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-115.141153, 36.106994]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"uni_name": "Columbia University in the City of New York",
+			"ISTandF": "57208",
+			"ISTLOC": "74199",
+			"OOSLOC": "74199",
+			"ISTLOFFC": "80973",
+			"OOSLOFFC": "80973",
+			"ISTLWF": "61578",
+			"OOSLWF": "61578",
+			"PERCENTADMIT": "7",
+			"FUNDINGSOURCE": "Private",
+			"DegreeCOUNT": "11",
+			"url": "www.columbia.edu",
+			"landgrantYN": "FALSE",
+			"census_region": "Northeast",
+			"census_division": "Middle Atlantic",
+			"city": "New York",
+			"state": "NY"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-73.961885, 40.808286]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"uni_name": "Cooper Union for the Advancement of Science and Art",
+			"ISTandF": "45100",
+			"ISTLOC": "65045",
+			"OOSLOC": "65045",
+			"ISTLOFFC": "64685",
+			"OOSLOFFC": "64685",
+			"ISTLWF": "48775",
+			"OOSLWF": "48775",
+			"PERCENTADMIT": "NULL",
+			"FUNDINGSOURCE": "Private",
+			"DegreeCOUNT": "2",
+			"url": "www.cooper.edu",
+			"landgrantYN": "FALSE",
+			"census_region": "Northeast",
+			"census_division": "Middle Atlantic",
+			"city": "New York",
+			"state": "NY"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-73.990516, 40.72938]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"uni_name": "Cornell University",
+			"ISTandF": "52853",
+			"ISTLOC": "70321",
+			"OOSLOC": "70321",
+			"ISTLOFFC": "70291",
+			"OOSLOFFC": "70291",
+			"ISTLWF": "55991",
+			"OOSLWF": "55991",
+			"PERCENTADMIT": "14",
+			"FUNDINGSOURCE": "Private",
+			"DegreeCOUNT": "16",
+			"url": "www.cornell.edu",
+			"landgrantYN": "TRUE",
+			"census_region": "Northeast",
+			"census_division": "Middle Atlantic",
+			"city": "Ithaca",
+			"state": "NY"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-76.483084, 42.4472]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"uni_name": "CUNY City College",
+			"ISTandF": "6940",
+			"ISTLOC": "29284",
+			"OOSLOC": "36674",
+			"ISTLOFFC": "27452",
+			"OOSLOFFC": "34842",
+			"ISTLWF": "12412",
+			"OOSLWF": "19802",
+			"PERCENTADMIT": "45",
+			"FUNDINGSOURCE": "Public",
+			"DegreeCOUNT": "6",
+			"url": "www.ccny.cuny.edu",
+			"landgrantYN": "FALSE",
+			"census_region": "Northeast",
+			"census_division": "Middle Atlantic",
+			"city": "New York",
+			"state": "NY"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-73.95055, 40.819794]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"uni_name": "CUNY Hunter College",
+			"ISTandF": "6982",
+			"ISTLOC": "22064",
+			"OOSLOC": "29454",
+			"ISTLOFFC": "27494",
+			"OOSLOFFC": "34884",
+			"ISTLWF": "12454",
+			"OOSLWF": "19844",
+			"PERCENTADMIT": "38",
+			"FUNDINGSOURCE": "Public",
+			"DegreeCOUNT": "2",
+			"url": "www.hunter.cuny.edu",
+			"landgrantYN": "FALSE",
+			"census_region": "Northeast",
+			"census_division": "Middle Atlantic",
+			"city": "New York",
+			"state": "NY"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-73.964795, 40.768669]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"uni_name": "New York Institute of Technology",
+			"ISTandF": "35870",
+			"ISTLOC": "57154",
+			"OOSLOC": "57154",
+			"ISTLOFFC": "55118",
+			"OOSLOFFC": "55118",
+			"ISTLWF": "41426",
+			"OOSLWF": "41426",
+			"PERCENTADMIT": "73",
+			"FUNDINGSOURCE": "Private",
+			"DegreeCOUNT": "5",
+			"url": "www.nyit.edu",
+			"landgrantYN": "FALSE",
+			"census_region": "Northeast",
+			"census_division": "Middle Atlantic",
+			"city": "Old Westbury",
+			"state": "NY"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-73.6078, 40.812447]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"uni_name": "New York University",
+			"ISTandF": "50464",
+			"ISTLOC": "71790",
+			"OOSLOC": "71790",
+			"ISTLOFFC": "71790",
+			"OOSLOFFC": "71790",
+			"ISTLWF": "54126",
+			"OOSLWF": "54126",
+			"PERCENTADMIT": "32",
+			"FUNDINGSOURCE": "Private",
+			"DegreeCOUNT": "1",
+			"url": "www.nyu.edu",
+			"landgrantYN": "FALSE",
+			"census_region": "Northeast",
+			"census_division": "Middle Atlantic",
+			"city": "New York",
+			"state": "NY"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-73.997264, 40.729452]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"uni_name": "Pratt Institute-Main",
+			"ISTandF": "50038",
+			"ISTLOC": "65308",
+			"OOSLOC": "65308",
+			"ISTLOFFC": "70288",
+			"OOSLOFFC": "70288",
+			"ISTLWF": "54788",
+			"OOSLWF": "54788",
+			"PERCENTADMIT": "58",
+			"FUNDINGSOURCE": "Private",
+			"DegreeCOUNT": "13",
+			"url": "www.pratt.edu",
+			"landgrantYN": "FALSE",
+			"census_region": "Northeast",
+			"census_division": "Middle Atlantic",
+			"city": "Brooklyn",
+			"state": "NY"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-73.962149, 40.691154]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"uni_name": "Rensselaer Polytechnic Institute",
+			"ISTandF": "52305",
+			"ISTLOC": "70132",
+			"OOSLOC": "70132",
+			"ISTLOFFC": "NULL",
+			"OOSLOFFC": "NULL",
+			"ISTLWF": "NULL",
+			"OOSLWF": "NULL",
+			"PERCENTADMIT": "44",
+			"FUNDINGSOURCE": "Private",
+			"DegreeCOUNT": "7",
+			"url": "www.rpi.edu",
+			"landgrantYN": "FALSE",
+			"census_region": "Northeast",
+			"census_division": "Middle Atlantic",
+			"city": "Troy",
+			"state": "NY"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-73.678768, 42.728983]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"uni_name": "Rochester Institute of Technology",
+			"ISTandF": "40068",
+			"ISTLOC": "54714",
+			"OOSLOC": "54714",
+			"ISTLOFFC": "54714",
+			"OOSLOFFC": "54714",
+			"ISTLWF": "42294",
+			"OOSLWF": "42294",
+			"PERCENTADMIT": "55",
+			"FUNDINGSOURCE": "Private",
+			"DegreeCOUNT": "2",
+			"url": "www.rit.edu/",
+			"landgrantYN": "FALSE",
+			"census_region": "Northeast",
+			"census_division": "Middle Atlantic",
+			"city": "Rochester",
+			"state": "NY"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-77.67386, 43.084188]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"uni_name": "SUNY at Albany",
+			"ISTandF": "9490",
+			"ISTLOC": "25682",
+			"OOSLOC": "40562",
+			"ISTLOFFC": "22313",
+			"OOSLOFFC": "37193",
+			"ISTLWF": "12563",
+			"OOSLWF": "27443",
+			"PERCENTADMIT": "54",
+			"FUNDINGSOURCE": "Public",
+			"DegreeCOUNT": "2",
+			"url": "www.albany.edu",
+			"landgrantYN": "FALSE",
+			"census_region": "Northeast",
+			"census_division": "Middle Atlantic",
+			"city": "Albany",
+			"state": "NY"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-73.825014, 42.686917]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"uni_name": "SUNY College of Environmental Science and Forestry",
+			"ISTandF": "8543",
+			"ISTLOC": "27303",
+			"OOSLOC": "36953",
+			"ISTLOFFC": "20958",
+			"OOSLOFFC": "30608",
+			"ISTLWF": "12193",
+			"OOSLWF": "21843",
+			"PERCENTADMIT": "54",
+			"FUNDINGSOURCE": "Public",
+			"DegreeCOUNT": "10",
+			"url": "www.esf.edu",
+			"landgrantYN": "FALSE",
+			"census_region": "Northeast",
+			"census_division": "Middle Atlantic",
+			"city": "Syracuse",
+			"state": "NY"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-76.138724, 43.034765]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"uni_name": "SUNY College of Technology at Alfred",
+			"ISTandF": "8327",
+			"ISTLOC": "24859",
+			"OOSLOC": "24859",
+			"ISTLOFFC": "23868",
+			"OOSLOFFC": "23868",
+			"ISTLWF": "14472",
+			"OOSLWF": "14472",
+			"PERCENTADMIT": "72",
+			"FUNDINGSOURCE": "Public",
+			"DegreeCOUNT": "3",
+			"url": "www.alfredstate.edu",
+			"landgrantYN": "FALSE",
+			"census_region": "Northeast",
+			"census_division": "Middle Atlantic",
+			"city": "Alfred",
+			"state": "NY"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-77.794632, 42.255262]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"uni_name": "SUNY University at Buffalo",
+			"ISTandF": "9828",
+			"ISTLOC": "26158",
+			"OOSLOC": "43398",
+			"ISTLOFFC": "26230",
+			"OOSLOFFC": "43470",
+			"ISTLWF": "13753",
+			"OOSLWF": "30993",
+			"PERCENTADMIT": "59",
+			"FUNDINGSOURCE": "Public",
+			"DegreeCOUNT": "7",
+			"url": "www.buffalo.edu",
+			"landgrantYN": "FALSE",
+			"census_region": "Northeast",
+			"census_division": "Middle Atlantic",
+			"city": "Buffalo",
+			"state": "NY"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-78.789458, 43.000942]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"uni_name": "Syracuse University",
+			"ISTandF": "46755",
+			"ISTLOC": "65480",
+			"OOSLOC": "65480",
+			"ISTLOFFC": "65480",
+			"OOSLOFFC": "65480",
+			"ISTLWF": "49922",
+			"OOSLWF": "49922",
+			"PERCENTADMIT": "52",
+			"FUNDINGSOURCE": "Private",
+			"DegreeCOUNT": "3",
+			"url": "syr.edu/",
+			"landgrantYN": "FALSE",
+			"census_region": "Northeast",
+			"census_division": "Middle Atlantic",
+			"city": "Syracuse",
+			"state": "NY"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-76.136975, 43.040176]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"uni_name": "The New School",
+			"ISTandF": "47276",
+			"ISTLOC": "69475",
+			"OOSLOC": "69475",
+			"ISTLOFFC": "65375",
+			"OOSLOFFC": "65375",
+			"ISTLWF": "49825",
+			"OOSLWF": "49825",
+			"PERCENTADMIT": "60",
+			"FUNDINGSOURCE": "Private",
+			"DegreeCOUNT": "6",
+			"url": "www.newschool.edu/",
+			"landgrantYN": "FALSE",
+			"census_region": "Northeast",
+			"census_division": "Middle Atlantic",
+			"city": "New York",
+			"state": "NY"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-73.994636, 40.735275]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"uni_name": "Belmont College",
+			"ISTandF": "3541",
+			"ISTLOC": "NULL",
+			"OOSLOC": "NULL",
+			"ISTLOFFC": "11059",
+			"OOSLOFFC": "13538",
+			"ISTLWF": "7915",
+			"OOSLWF": "10394",
+			"PERCENTADMIT": "NULL",
+			"FUNDINGSOURCE": "Public",
+			"DegreeCOUNT": "1",
+			"url": "www.belmontcollege.edu",
+			"landgrantYN": "FALSE",
+			"census_region": "Midwest",
+			"census_division": "East North Central",
+			"city": "Saint Clairsville",
+			"state": "OH"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-80.964901, 40.07695]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"uni_name": "Bowling Green State University-Main Campus",
+			"ISTandF": "11057",
+			"ISTLOC": "24569",
+			"OOSLOC": "32105",
+			"ISTLOFFC": "24435",
+			"OOSLOFFC": "31971",
+			"ISTLWF": "16561",
+			"OOSLWF": "24097",
+			"PERCENTADMIT": "76",
+			"FUNDINGSOURCE": "Public",
+			"DegreeCOUNT": "5",
+			"url": "www.bgsu.edu",
+			"landgrantYN": "FALSE",
+			"census_region": "Midwest",
+			"census_division": "East North Central",
+			"city": "Bowling Green",
+			"state": "OH"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-83.640896, 41.375513]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"uni_name": "Cleveland State University",
+			"ISTandF": "9778",
+			"ISTLOC": "26774",
+			"OOSLOC": "30825",
+			"ISTLOFFC": "26774",
+			"OOSLOFFC": "30825",
+			"ISTLWF": "14274",
+			"OOSLWF": "18325",
+			"PERCENTADMIT": "87",
+			"FUNDINGSOURCE": "Public",
+			"DegreeCOUNT": "3",
+			"url": "www.csuohio.edu/",
+			"landgrantYN": "FALSE",
+			"census_region": "Midwest",
+			"census_division": "East North Central",
+			"city": "Cleveland",
+			"state": "OH"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-81.673052, 41.502918]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"uni_name": "Kent State University at Kent",
+			"ISTandF": "10012",
+			"ISTLOC": "25514",
+			"OOSLOC": "34046",
+			"ISTLOFFC": "25514",
+			"OOSLOFFC": "34046",
+			"ISTLWF": "15688",
+			"OOSLWF": "24220",
+			"PERCENTADMIT": "85",
+			"FUNDINGSOURCE": "Public",
+			"DegreeCOUNT": "10",
+			"url": "www.kent.edu",
+			"landgrantYN": "FALSE",
+			"census_region": "Midwest",
+			"census_division": "East North Central",
+			"city": "Kent",
+			"state": "OH"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-81.342533, 41.146653]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"uni_name": "Miami University-Oxford",
+			"ISTandF": "14958",
+			"ISTLOC": "31811",
+			"OOSLOC": "51064",
+			"ISTLOFFC": "31811",
+			"OOSLOFFC": "51064",
+			"ISTLWF": "19524",
+			"OOSLWF": "38777",
+			"PERCENTADMIT": "65",
+			"FUNDINGSOURCE": "Public",
+			"DegreeCOUNT": "4",
+			"url": "www.miamioh.edu",
+			"landgrantYN": "FALSE",
+			"census_region": "Midwest",
+			"census_division": "East North Central",
+			"city": "Oxford",
+			"state": "OH"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-84.731821, 39.509642]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"uni_name": "Ohio State University-Main Campus",
+			"ISTandF": "10592",
+			"ISTLOC": "27037",
+			"OOSLOC": "46141",
+			"ISTLOFFC": "26125",
+			"OOSLOFFC": "45229",
+			"ISTLWF": "16845",
+			"OOSLWF": "35949",
+			"PERCENTADMIT": "54",
+			"FUNDINGSOURCE": "Public",
+			"DegreeCOUNT": "7",
+			"url": "www.osu.edu/",
+			"landgrantYN": "TRUE",
+			"census_region": "Midwest",
+			"census_division": "East North Central",
+			"city": "Columbus",
+			"state": "OH"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-83.009001, 39.998389]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"uni_name": "University of Cincinnati-Main Campus",
+			"ISTandF": "11000",
+			"ISTLOC": "28156",
+			"OOSLOC": "44490",
+			"ISTLOFFC": "30268",
+			"OOSLOFFC": "46602",
+			"ISTLWF": "17024",
+			"OOSLWF": "33358",
+			"PERCENTADMIT": "76",
+			"FUNDINGSOURCE": "Public",
+			"DegreeCOUNT": "13",
+			"url": "www.uc.edu",
+			"landgrantYN": "FALSE",
+			"census_region": "Midwest",
+			"census_division": "East North Central",
+			"city": "Cincinnati",
+			"state": "OH"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-84.51428, 39.131159]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"uni_name": "Ursuline College",
+			"ISTandF": "31150",
+			"ISTLOC": "44512",
+			"OOSLOC": "44512",
+			"ISTLOFFC": "43350",
+			"OOSLOFFC": "43350",
+			"ISTLWF": "36900",
+			"OOSLWF": "36900",
+			"PERCENTADMIT": "90",
+			"FUNDINGSOURCE": "Private",
+			"DegreeCOUNT": "2",
+			"url": "www.ursuline.edu",
+			"landgrantYN": "FALSE",
+			"census_region": "Midwest",
+			"census_division": "East West Central",
+			"city": "Pepper Pike",
+			"state": "OH"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-81.466716, 41.494971]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"uni_name": "Oklahoma State University-Main Campus",
+			"ISTandF": "8738",
+			"ISTLOC": "23648",
+			"OOSLOC": "38686",
+			"ISTLOFFC": "23648",
+			"OOSLOFFC": "38686",
+			"ISTLWF": "14708",
+			"OOSLWF": "29746",
+			"PERCENTADMIT": "75",
+			"FUNDINGSOURCE": "Public",
+			"DegreeCOUNT": "5",
+			"url": "www.okstate.edu/",
+			"landgrantYN": "TRUE",
+			"census_region": "South",
+			"census_division": "West South Central",
+			"city": "Stillwater",
+			"state": "OK"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-97.069743, 36.123085]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"uni_name": "University of Oklahoma-Norman Campus",
+			"ISTandF": "11538",
+			"ISTLOC": "28383",
+			"OOSLOC": "43764",
+			"ISTLOFFC": "28383",
+			"OOSLOFFC": "43764",
+			"ISTLWF": "17795",
+			"OOSLWF": "33176",
+			"PERCENTADMIT": "71",
+			"FUNDINGSOURCE": "Public",
+			"DegreeCOUNT": "13",
+			"url": "www.ou.edu",
+			"landgrantYN": "FALSE",
+			"census_region": "South",
+			"census_division": "West South Central",
+			"city": "Norman",
+			"state": "OK"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-97.445692, 35.208152]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"uni_name": "Clatsop Community College",
+			"ISTandF": "4014",
+			"ISTLOC": "NULL",
+			"OOSLOC": "NULL",
+			"ISTLOFFC": "17886",
+			"OOSLOFFC": "21450",
+			"ISTLWF": "9858",
+			"OOSLWF": "13422",
+			"PERCENTADMIT": "NULL",
+			"FUNDINGSOURCE": "Public",
+			"DegreeCOUNT": "2",
+			"url": "www.clatsopcc.edu",
+			"landgrantYN": "FALSE",
+			"census_region": "West",
+			"census_division": "Pacific",
+			"city": "Astoria",
+			"state": "OR"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-123.823339, 46.183107]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"uni_name": "Portland State University",
+			"ISTandF": "8783",
+			"ISTLOC": "NULL",
+			"OOSLOC": "NULL",
+			"ISTLOFFC": "26642",
+			"OOSLOFFC": "43989",
+			"ISTLWF": "13811",
+			"OOSLWF": "31158",
+			"PERCENTADMIT": "89",
+			"FUNDINGSOURCE": "Public",
+			"DegreeCOUNT": "5",
+			"url": "www.pdx.edu",
+			"landgrantYN": "FALSE",
+			"census_region": "West",
+			"census_division": "Pacific",
+			"city": "Portland",
+			"state": "OR"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-122.683553, 45.511229]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"uni_name": "University of Oregon",
+			"ISTandF": "11931",
+			"ISTLOC": "26862",
+			"OOSLOC": "49542",
+			"ISTLOFFC": "25248",
+			"OOSLOFFC": "47928",
+			"ISTLWF": "15412",
+			"OOSLWF": "38092",
+			"PERCENTADMIT": "78",
+			"FUNDINGSOURCE": "Public",
+			"DegreeCOUNT": "13",
+			"url": "www.uoregon.edu",
+			"landgrantYN": "FALSE",
+			"census_region": "West",
+			"census_division": "Pacific",
+			"city": "Eugene",
+			"state": "OR"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-123.075792, 44.045146]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"uni_name": "Bucks County Community College",
+			"ISTandF": "8138",
+			"ISTLOC": "NULL",
+			"OOSLOC": "NULL",
+			"ISTLOFFC": "21408",
+			"OOSLOFFC": "25128",
+			"ISTLWF": "14158",
+			"OOSLWF": "17878",
+			"PERCENTADMIT": "NULL",
+			"FUNDINGSOURCE": "Public",
+			"DegreeCOUNT": "1",
+			"url": "www.bucks.edu/",
+			"landgrantYN": "FALSE",
+			"census_region": "Northeast",
+			"census_division": "Middle Atlantic",
+			"city": "Newtown",
+			"state": "PA"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-74.965841, 40.239102]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"uni_name": "Carnegie Mellon University",
+			"ISTandF": "53910",
+			"ISTLOC": "70094",
+			"OOSLOC": "70094",
+			"ISTLOFFC": "54910",
+			"OOSLOFFC": "54910",
+			"ISTLWF": "56310",
+			"OOSLWF": "56310",
+			"PERCENTADMIT": "22",
+			"FUNDINGSOURCE": "Private",
+			"DegreeCOUNT": "13",
+			"url": "www.cmu.edu/",
+			"landgrantYN": "FALSE",
+			"census_region": "Northeast",
+			"census_division": "Middle Atlantic",
+			"city": "Pittsburgh",
+			"state": "PA"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-79.942914, 40.444616]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"uni_name": "Delaware Valley University",
+			"ISTandF": "38000",
+			"ISTLOC": "54750",
+			"OOSLOC": "54750",
+			"ISTLOFFC": "54128",
+			"OOSLOFFC": "54128",
+			"ISTLWF": "44300",
+			"OOSLWF": "44300",
+			"PERCENTADMIT": "68",
+			"FUNDINGSOURCE": "Private",
+			"DegreeCOUNT": "2",
+			"url": "www.delval.edu",
+			"landgrantYN": "FALSE",
+			"census_region": "Northeast",
+			"census_division": "Middle Atlantic",
+			"city": "Doylestown",
+			"state": "PA"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-75.158202, 40.29757]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"uni_name": "Drexel University",
+			"ISTandF": "52002",
+			"ISTLOC": "68792",
+			"OOSLOC": "68792",
+			"ISTLOFFC": "68792",
+			"OOSLOFFC": "68792",
+			"ISTLWF": "54902",
+			"OOSLWF": "54902",
+			"PERCENTADMIT": "75",
+			"FUNDINGSOURCE": "Private",
+			"DegreeCOUNT": "4",
+			"url": "www.drexel.edu",
+			"landgrantYN": "FALSE",
+			"census_region": "Northeast",
+			"census_division": "Middle Atlantic",
+			"city": "Philadelphia",
+			"state": "PA"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-75.188745, 39.954855]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"uni_name": "Indiana University of Pennsylvania-Main Campus",
+			"ISTandF": "12119",
+			"ISTLOC": "27309",
+			"OOSLOC": "32461",
+			"ISTLOFFC": "27361",
+			"OOSLOFFC": "32513",
+			"ISTLWF": "15981",
+			"OOSLWF": "21133",
+			"PERCENTADMIT": "92",
+			"FUNDINGSOURCE": "Public",
+			"DegreeCOUNT": "2",
+			"url": "www.iup.edu",
+			"landgrantYN": "FALSE",
+			"census_region": "Northeast",
+			"census_division": "Middle Atlantic",
+			"city": "Indiana",
+			"state": "PA"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-79.159869, 40.615589]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"uni_name": "Jefferson (Philadelphia University } Thomas Jefferson University)",
+			"ISTandF": "39280",
+			"ISTLOC": "57931",
+			"OOSLOC": "57931",
+			"ISTLOFFC": "58180",
+			"OOSLOFFC": "58180",
+			"ISTLWF": "45176",
+			"OOSLWF": "45176",
+			"PERCENTADMIT": "61",
+			"FUNDINGSOURCE": "Private",
+			"DegreeCOUNT": "13",
+			"url": "www.philau.edu",
+			"landgrantYN": "FALSE",
+			"census_region": "Northeast",
+			"census_division": "Middle Atlantic",
+			"city": "Philadelphia",
+			"state": "PA"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-75.192645, 40.022882]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"uni_name": "Marywood University",
+			"ISTandF": "33940",
+			"ISTLOC": "50340",
+			"OOSLOC": "50340",
+			"ISTLOFFC": "46640",
+			"OOSLOFFC": "46640",
+			"ISTLWF": "38640",
+			"OOSLWF": "38640",
+			"PERCENTADMIT": "68",
+			"FUNDINGSOURCE": "Private",
+			"DegreeCOUNT": "4",
+			"url": "www.marywood.edu/",
+			"landgrantYN": "FALSE",
+			"census_region": "Northeast",
+			"census_division": "Middle Atlantic",
+			"city": "Scranton",
+			"state": "PA"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-75.633996, 41.434978]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"uni_name": "Pennsylvania State University-Main Campus",
+			"ISTandF": "18436",
+			"ISTLOC": "36344",
+			"OOSLOC": "51572",
+			"ISTLOFFC": "36344",
+			"OOSLOFFC": "51572",
+			"ISTLWF": "24380",
+			"OOSLWF": "39608",
+			"PERCENTADMIT": "56",
+			"FUNDINGSOURCE": "Public",
+			"DegreeCOUNT": "10",
+			"url": "www.psu.edu/",
+			"landgrantYN": "TRUE",
+			"census_region": "Northeast",
+			"census_division": "Middle Atlantic",
+			"city": "University Park",
+			"state": "PA"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-77.861644, 40.800732]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"uni_name": "Temple University",
+			"ISTandF": "16658",
+			"ISTLOC": "32430",
+			"OOSLOC": "44190",
+			"ISTLOFFC": "35210",
+			"OOSLOFFC": "46970",
+			"ISTLWF": "20734",
+			"OOSLWF": "32494",
+			"PERCENTADMIT": "52",
+			"FUNDINGSOURCE": "Public",
+			"DegreeCOUNT": "9",
+			"url": "www.temple.edu",
+			"landgrantYN": "FALSE",
+			"census_region": "Northeast",
+			"census_division": "Middle Atlantic",
+			"city": "Philadelphia",
+			"state": "PA"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-75.158267, 39.980943]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"uni_name": "University of Pennsylvania",
+			"ISTandF": "53534",
+			"ISTLOC": "71715",
+			"OOSLOC": "71715",
+			"ISTLOFFC": "71715",
+			"OOSLOFFC": "71715",
+			"ISTLWF": "56649",
+			"OOSLWF": "56649",
+			"PERCENTADMIT": "9",
+			"FUNDINGSOURCE": "Private",
+			"DegreeCOUNT": "12",
+			"url": "www.upenn.edu",
+			"landgrantYN": "FALSE",
+			"census_region": "Northeast",
+			"census_division": "Middle Atlantic",
+			"city": "Philadelphia",
+			"state": "PA"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-75.19391, 39.950929]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"uni_name": "University of Pittsburgh-Pittsburgh Campus",
+			"ISTandF": "19080",
+			"ISTLOC": "33250",
+			"OOSLOC": "44812",
+			"ISTLOFFC": "33250",
+			"OOSLOFFC": "44812",
+			"ISTLWF": "22300",
+			"OOSLWF": "33862",
+			"PERCENTADMIT": "55",
+			"FUNDINGSOURCE": "Private",
+			"DegreeCOUNT": "4",
+			"url": "www.pitt.edu",
+			"landgrantYN": "FALSE",
+			"census_region": "Northeast",
+			"census_division": "Middle Atlantic",
+			"city": "Pittsburgh",
+			"state": "PA"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-79.954692, 40.444502]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"uni_name": "West Chester University of Pennsylvania",
+			"ISTandF": "10111",
+			"ISTLOC": "26773",
+			"OOSLOC": "38253",
+			"ISTLOFFC": "26773",
+			"OOSLOFFC": "38253",
+			"ISTLWF": "15671",
+			"OOSLWF": "27151",
+			"PERCENTADMIT": "64",
+			"FUNDINGSOURCE": "Public",
+			"DegreeCOUNT": "2",
+			"url": "www.wcupa.edu",
+			"landgrantYN": "FALSE",
+			"census_region": "Northeast",
+			"census_division": "Middle Atlantic",
+			"city": "West Chester",
+			"state": "PA"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-75.59812, 39.953398]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"uni_name": "Polytechnic University of Puerto Rico",
+			"ISTandF": "30150",
+			"ISTLOC": "NULL",
+			"OOSLOC": "NULL",
+			"ISTLOFFC": "NULL",
+			"OOSLOFFC": "NULL",
+			"ISTLWF": "NULL",
+			"OOSLWF": "NULL",
+			"PERCENTADMIT": "NULL",
+			"FUNDINGSOURCE": "Private",
+			"DegreeCOUNT": "3",
+			"url": "www.pupr.edu",
+			"landgrantYN": "FALSE",
+			"census_region": "Puerto Rico",
+			"census_division": "Puerto Rico",
+			"city": "San Juan",
+			"state": "PR"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-66.0559137, 18.4223343]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"uni_name": "Pontificial Catholic University of Puerto Rico",
+			"ISTandF": "17289",
+			"ISTLOC": "NULL",
+			"OOSLOC": "NULL",
+			"ISTLOFFC": "NULL",
+			"OOSLOFFC": "NULL",
+			"ISTLWF": "NULL",
+			"OOSLWF": "NULL",
+			"PERCENTADMIT": "NULL",
+			"FUNDINGSOURCE": "Private",
+			"DegreeCOUNT": "1",
+			"url": "https://www.pucpr.edu/",
+			"landgrantYN": "FALSE",
+			"census_region": "Puerto Rico",
+			"census_division": "Puerto Rico",
+			"city": "Ponce",
+			"state": "PR"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-66.6186801, 18.0007601]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"uni_name": "Universidad Ana G. Mendez",
+			"ISTandF": "17289",
+			"ISTLOC": "NULL",
+			"OOSLOC": "NULL",
+			"ISTLOFFC": "NULL",
+			"OOSLOFFC": "NULL",
+			"ISTLWF": "NULL",
+			"OOSLWF": "NULL",
+			"PERCENTADMIT": "NULL",
+			"FUNDINGSOURCE": "Private",
+			"DegreeCOUNT": "5",
+			"url": "https://cupey.uagm.edu/",
+			"landgrantYN": "FALSE",
+			"census_region": "Puerto Rico",
+			"census_division": "Puerto Rico",
+			"city": "San Juan",
+			"state": "PR"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-66.0614433, 18.3870373]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"uni_name": "University of Puerto Rico",
+			"ISTandF": "19960",
+			"ISTLOC": "NULL",
+			"OOSLOC": "NULL",
+			"ISTLOFFC": "NULL",
+			"OOSLOFFC": "NULL",
+			"ISTLWF": "NULL",
+			"OOSLWF": "NULL",
+			"PERCENTADMIT": "NULL",
+			"FUNDINGSOURCE": "Public",
+			"DegreeCOUNT": "3",
+			"url": "http://www.uprrp.edu/",
+			"landgrantYN": "TRUE",
+			"census_region": "Puerto Rico",
+			"census_division": "Puerto Rico",
+			"city": "San Juan",
+			"state": "PR"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-66.0500407, 18.4028091]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"uni_name": "Rhode Island School of Design",
+			"ISTandF": "48370",
+			"ISTLOC": "67620",
+			"OOSLOC": "67620",
+			"ISTLOFFC": "67620",
+			"OOSLOFFC": "67620",
+			"ISTLWF": "55566",
+			"OOSLWF": "55566",
+			"PERCENTADMIT": "34",
+			"FUNDINGSOURCE": "Private",
+			"DegreeCOUNT": "6",
+			"url": "www.risd.edu",
+			"landgrantYN": "FALSE",
+			"census_region": "Northeast",
+			"census_division": "New England",
+			"city": "Providence",
+			"state": "RI"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-71.407692, 41.825935]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"uni_name": "Roger Williams University",
+			"ISTandF": "33336",
+			"ISTLOC": "52700",
+			"OOSLOC": "52700",
+			"ISTLOFFC": "41516",
+			"OOSLOFFC": "41516",
+			"ISTLWF": "36662",
+			"OOSLWF": "36662",
+			"PERCENTADMIT": "79",
+			"FUNDINGSOURCE": "Private",
+			"DegreeCOUNT": "5",
+			"url": "www.rwu.edu",
+			"landgrantYN": "FALSE",
+			"census_region": "Northeast",
+			"census_division": "New England",
+			"city": "Bristol",
+			"state": "RI"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-71.260374, 41.650214]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"uni_name": "Salve Regina University",
+			"ISTandF": "38986",
+			"ISTLOC": "56746",
+			"OOSLOC": "56746",
+			"ISTLOFFC": "53486",
+			"OOSLOFFC": "53486",
+			"ISTLWF": "42886",
+			"OOSLWF": "42886",
+			"PERCENTADMIT": "68",
+			"FUNDINGSOURCE": "Private",
+			"DegreeCOUNT": "1",
+			"url": "www.salve.edu",
+			"landgrantYN": "FALSE",
+			"census_region": "Northeast",
+			"census_division": "New England",
+			"city": "Newport",
+			"state": "RI"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-71.301125, 41.471445]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"uni_name": "University of Rhode Island",
+			"ISTandF": "13792",
+			"ISTLOC": "29485",
+			"OOSLOC": "45735",
+			"ISTLOFFC": "28352",
+			"OOSLOFFC": "44602",
+			"ISTLWF": "22824",
+			"OOSLWF": "39074",
+			"PERCENTADMIT": "73",
+			"FUNDINGSOURCE": "Public",
+			"DegreeCOUNT": "2",
+			"url": "web.uri.edu/",
+			"landgrantYN": "TRUE",
+			"census_region": "Northeast",
+			"census_division": "New England",
+			"city": "Kingston",
+			"state": "RI"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-71.527356, 41.484691]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"uni_name": "American College of the Building Arts",
+			"ISTandF": "NULL",
+			"ISTLOC": "NULL",
+			"OOSLOC": "NULL",
+			"ISTLOFFC": "NULL",
+			"OOSLOFFC": "NULL",
+			"ISTLWF": "NULL",
+			"OOSLWF": "NULL",
+			"PERCENTADMIT": "NULL",
+			"FUNDINGSOURCE": "Private",
+			"DegreeCOUNT": "1",
+			"url": "acba.edu",
+			"landgrantYN": "FALSE",
+			"census_region": "South",
+			"census_division": "South Atlantic",
+			"city": "Charleston",
+			"state": "SC"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-79.9469442, 32.8050545]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"uni_name": "Clemson University",
+			"ISTandF": "15116",
+			"ISTLOC": "29574",
+			"OOSLOC": "50516",
+			"ISTLOFFC": "29574",
+			"OOSLOFFC": "50516",
+			"ISTLWF": "21608",
+			"OOSLWF": "42550",
+			"PERCENTADMIT": "51",
+			"FUNDINGSOURCE": "Public",
+			"DegreeCOUNT": "12",
+			"url": "www.clemson.edu",
+			"landgrantYN": "TRUE",
+			"census_region": "South",
+			"census_division": "South Atlantic",
+			"city": "Clemson",
+			"state": "SC"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-82.835114, 34.679381]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"uni_name": "College of Charleston",
+			"ISTandF": "12422",
+			"ISTLOC": "29669",
+			"OOSLOC": "48057",
+			"ISTLOFFC": "28638",
+			"OOSLOFFC": "47026",
+			"ISTLWF": "17750",
+			"OOSLWF": "36138",
+			"PERCENTADMIT": "84",
+			"FUNDINGSOURCE": "Private",
+			"DegreeCOUNT": "4",
+			"url": "www.cofc.edu",
+			"landgrantYN": "FALSE",
+			"census_region": "South",
+			"census_division": "South Atlantic",
+			"city": "Charleston",
+			"state": "SC"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-79.937251, 32.783142]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"uni_name": "South Dakota State University",
+			"ISTandF": "8441",
+			"ISTLOC": "22804",
+			"OOSLOC": "26052",
+			"ISTLOFFC": "25206",
+			"OOSLOFFC": "28454",
+			"ISTLWF": "13741",
+			"OOSLWF": "16989",
+			"PERCENTADMIT": "91",
+			"FUNDINGSOURCE": "Public",
+			"DegreeCOUNT": "4",
+			"url": "www.sdstate.edu/",
+			"landgrantYN": "TRUE",
+			"census_region": "Midwest",
+			"census_division": "West North Central",
+			"city": "Brookings",
+			"state": "SD"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-96.782139, 44.317485]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"uni_name": "Belmont University",
+			"ISTandF": "32820",
+			"ISTLOC": "50740",
+			"OOSLOC": "50740",
+			"ISTLOFFC": "50740",
+			"OOSLOFFC": "50740",
+			"ISTLWF": "39160",
+			"OOSLWF": "39160",
+			"PERCENTADMIT": "81",
+			"FUNDINGSOURCE": "Private",
+			"DegreeCOUNT": "1",
+			"url": "www.belmont.edu",
+			"landgrantYN": "FALSE",
+			"census_region": "South",
+			"census_division": "East South Central",
+			"city": "Nashville",
+			"state": "TN"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-86.794715, 36.133866]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"uni_name": "Middle Tennessee State University",
+			"ISTandF": "8612",
+			"ISTLOC": "22722",
+			"OOSLOC": "40458",
+			"ISTLOFFC": "22722",
+			"OOSLOFFC": "40458",
+			"ISTLWF": "14330",
+			"OOSLWF": "32066",
+			"PERCENTADMIT": "69",
+			"FUNDINGSOURCE": "Public",
+			"DegreeCOUNT": "2",
+			"url": "www.mtsu.edu",
+			"landgrantYN": "FALSE",
+			"census_region": "South",
+			"census_division": "East South Central",
+			"city": "Murfreesboro",
+			"state": "TN"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-86.360618, 35.848005]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"uni_name": "The University of Tennessee-Knoxville",
+			"ISTandF": "12970",
+			"ISTLOC": "30930",
+			"OOSLOC": "49350",
+			"ISTLOFFC": "30930",
+			"OOSLOFFC": "49350",
+			"ISTLWF": "20234",
+			"OOSLWF": "38654",
+			"PERCENTADMIT": "77",
+			"FUNDINGSOURCE": "Public",
+			"DegreeCOUNT": "4",
+			"url": "www.utk.edu",
+			"landgrantYN": "TRUE",
+			"census_region": "South",
+			"census_division": "East South Central",
+			"city": "Knoxville",
+			"state": "TN"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-83.925852, 35.952082]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"uni_name": "University of Memphis",
+			"ISTandF": "9317",
+			"ISTLOC": "24660",
+			"OOSLOC": "36372",
+			"ISTLOFFC": "24660",
+			"OOSLOFFC": "36372",
+			"ISTLWF": "15294",
+			"OOSLWF": "27006",
+			"PERCENTADMIT": "57",
+			"FUNDINGSOURCE": "Public",
+			"DegreeCOUNT": "3",
+			"url": "www.memphis.edu",
+			"landgrantYN": "FALSE",
+			"census_region": "South",
+			"census_division": "East South Central",
+			"city": "Memphis",
+			"state": "TN"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-89.938068, 35.118878]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"uni_name": "Del Mar College",
+			"ISTandF": "3976",
+			"ISTLOC": "NULL",
+			"OOSLOC": "NULL",
+			"ISTLOFFC": "15684",
+			"OOSLOFFC": "16646",
+			"ISTLWF": "10006",
+			"OOSLWF": "10968",
+			"PERCENTADMIT": "NULL",
+			"FUNDINGSOURCE": "Public",
+			"DegreeCOUNT": "2",
+			"url": "www.delmar.edu",
+			"landgrantYN": "FALSE",
+			"census_region": "South",
+			"census_division": "West South Central",
+			"city": "Corpus Christi",
+			"state": "TX"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-97.407627, 27.763623]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"uni_name": "Prairie View A & M University",
+			"ISTandF": "9959",
+			"ISTLOC": "23750",
+			"OOSLOC": "37279",
+			"ISTLOFFC": "22703",
+			"OOSLOFFC": "36232",
+			"ISTLWF": "14582",
+			"OOSLWF": "28111",
+			"PERCENTADMIT": "85",
+			"FUNDINGSOURCE": "Public",
+			"DegreeCOUNT": "4",
+			"url": "www.pvamu.edu",
+			"landgrantYN": "TRUE",
+			"census_region": "South",
+			"census_division": "West South Central",
+			"city": "Prairie View",
+			"state": "TX"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-95.989475, 30.092425]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"uni_name": "Rice University",
+			"ISTandF": "45608",
+			"ISTLOC": "63158",
+			"OOSLOC": "63158",
+			"ISTLOFFC": "63158",
+			"OOSLOFFC": "63158",
+			"ISTLWF": "49308",
+			"OOSLWF": "49308",
+			"PERCENTADMIT": "15",
+			"FUNDINGSOURCE": "Private",
+			"DegreeCOUNT": "4",
+			"url": "www.rice.edu",
+			"landgrantYN": "FALSE",
+			"census_region": "South",
+			"census_division": "West South Central",
+			"city": "Houston",
+			"state": "TX"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-95.402035, 29.717897]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"uni_name": "Texas A & M University-College Station",
+			"ISTandF": "11234",
+			"ISTLOC": "28476",
+			"OOSLOC": "53848",
+			"ISTLOFFC": "28476",
+			"OOSLOFFC": "53848",
+			"ISTLWF": "18108",
+			"OOSLWF": "43480",
+			"PERCENTADMIT": "67",
+			"FUNDINGSOURCE": "Public",
+			"DegreeCOUNT": "12",
+			"url": "www.tamu.edu",
+			"landgrantYN": "TRUE",
+			"census_region": "South",
+			"census_division": "West South Central",
+			"city": "College Station",
+			"state": "TX"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-96.336475, 30.618726]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"uni_name": "Texas Southern University",
+			"ISTandF": "9173",
+			"ISTLOC": "25271",
+			"OOSLOC": "37721",
+			"ISTLOFFC": "29320",
+			"OOSLOFFC": "41770",
+			"ISTLWF": "15607",
+			"OOSLWF": "28057",
+			"PERCENTADMIT": "51",
+			"FUNDINGSOURCE": "Public",
+			"DegreeCOUNT": "2",
+			"url": "www.tsu.edu",
+			"landgrantYN": "FALSE",
+			"census_region": "South",
+			"census_division": "West South Central",
+			"city": "Houston",
+			"state": "TX"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-95.361961, 29.722468]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"uni_name": "Texas Tech University",
+			"ISTandF": "8860",
+			"ISTLOC": "23633",
+			"OOSLOC": "33425",
+			"ISTLOFFC": "23633",
+			"OOSLOFFC": "33425",
+			"ISTLWF": "13606",
+			"OOSLWF": "23398",
+			"PERCENTADMIT": "63",
+			"FUNDINGSOURCE": "Public",
+			"DegreeCOUNT": "4",
+			"url": "www.ttu.edu",
+			"landgrantYN": "FALSE",
+			"census_region": "South",
+			"census_division": "West South Central",
+			"city": "Lubbock",
+			"state": "TX"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-101.874783, 33.583448]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"uni_name": "The University of Texas at Arlington",
+			"ISTandF": "9952",
+			"ISTLOC": "24660",
+			"OOSLOC": "39860",
+			"ISTLOFFC": "24660",
+			"OOSLOFFC": "39860",
+			"ISTLWF": "15736",
+			"OOSLWF": "30936",
+			"PERCENTADMIT": "70",
+			"FUNDINGSOURCE": "Public",
+			"DegreeCOUNT": "7",
+			"url": "WWW.UTA.EDU",
+			"landgrantYN": "FALSE",
+			"census_region": "South",
+			"census_division": "West South Central",
+			"city": "Arlington",
+			"state": "TX"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-97.115087, 32.728437]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"uni_name": "The University of Texas at Austin",
+			"ISTandF": "10398",
+			"ISTLOC": "25440",
+			"OOSLOC": "51786",
+			"ISTLOFFC": "25440",
+			"OOSLOFFC": "51786",
+			"ISTLWF": "15370",
+			"OOSLWF": "41716",
+			"PERCENTADMIT": "40",
+			"FUNDINGSOURCE": "Public",
+			"DegreeCOUNT": "15",
+			"url": "www.utexas.edu",
+			"landgrantYN": "FALSE",
+			"census_region": "South",
+			"census_division": "West South Central",
+			"city": "Austin",
+			"state": "TX"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-97.739291, 30.28609]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"uni_name": "The University of Texas at San Antonio",
+			"ISTandF": "7969",
+			"ISTLOC": "23285",
+			"OOSLOC": "34484",
+			"ISTLOFFC": "23693",
+			"OOSLOFFC": "34892",
+			"ISTLWF": "12995",
+			"OOSLWF": "24194",
+			"PERCENTADMIT": "76",
+			"FUNDINGSOURCE": "Public",
+			"DegreeCOUNT": "9",
+			"url": "www.utsa.edu/",
+			"landgrantYN": "FALSE",
+			"census_region": "South",
+			"census_division": "West South Central",
+			"city": "San Antonio",
+			"state": "TX"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-98.621386, 29.582418]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"uni_name": "University of Houston",
+			"ISTandF": "9706",
+			"ISTLOC": "24946",
+			"OOSLOC": "37306",
+			"ISTLOFFC": "27581",
+			"OOSLOFFC": "39941",
+			"ISTLWF": "16514",
+			"OOSLWF": "28874",
+			"PERCENTADMIT": "59",
+			"FUNDINGSOURCE": "Public",
+			"DegreeCOUNT": "8",
+			"url": "www.uh.edu/",
+			"landgrantYN": "FALSE",
+			"census_region": "South",
+			"census_division": "West South Central",
+			"city": "Houston",
+			"state": "TX"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-95.343537, 29.720393]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"uni_name": "University of North Texas",
+			"ISTandF": "10544",
+			"ISTLOC": "23948",
+			"OOSLOC": "33908",
+			"ISTLOFFC": "24162",
+			"OOSLOFFC": "34122",
+			"ISTLWF": "15606",
+			"OOSLWF": "25566",
+			"PERCENTADMIT": "72",
+			"FUNDINGSOURCE": "Public",
+			"DegreeCOUNT": "1",
+			"url": "www.unt.edu",
+			"landgrantYN": "FALSE",
+			"census_region": "South",
+			"census_division": "West South Central",
+			"city": "Denton",
+			"state": "TX"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-97.148422, 33.211178]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"uni_name": "University of Utah",
+			"ISTandF": "8884",
+			"ISTLOC": "23673",
+			"OOSLOC": "42916",
+			"ISTLOFFC": "23742",
+			"OOSLOFFC": "42985",
+			"ISTLWF": "13806",
+			"OOSLWF": "33049",
+			"PERCENTADMIT": "76",
+			"FUNDINGSOURCE": "Public",
+			"DegreeCOUNT": "5",
+			"url": "www.utah.edu",
+			"landgrantYN": "FALSE",
+			"census_region": "West",
+			"census_division": "Mountain",
+			"city": "Salt Lake City",
+			"state": "UT"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-111.846044, 40.762484]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"uni_name": "Utah State University",
+			"ISTandF": "7870",
+			"ISTLOC": "19614",
+			"OOSLOC": "33264",
+			"ISTLOFFC": "20554",
+			"OOSLOFFC": "34204",
+			"ISTLWF": "10614",
+			"OOSLWF": "24264",
+			"PERCENTADMIT": "90",
+			"FUNDINGSOURCE": "Public",
+			"DegreeCOUNT": "4",
+			"url": "www.usu.edu",
+			"landgrantYN": "TRUE",
+			"census_region": "West",
+			"census_division": "Mountain West",
+			"city": "Logan",
+			"state": "UT"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-111.81391, 41.740748]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"uni_name": "Hampton University",
+			"ISTandF": "25441",
+			"ISTLOC": "40559",
+			"OOSLOC": "40559",
+			"ISTLOFFC": "43326",
+			"OOSLOFFC": "43326",
+			"ISTLWF": "29841",
+			"OOSLWF": "29841",
+			"PERCENTADMIT": "65",
+			"FUNDINGSOURCE": "Private",
+			"DegreeCOUNT": "1",
+			"url": "www.hamptonu.edu",
+			"landgrantYN": "FALSE",
+			"census_region": "South",
+			"census_division": "South Atlantic",
+			"city": "Hampton",
+			"state": "VA"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-76.339161, 37.019944]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"uni_name": "James Madison University",
+			"ISTandF": "10830",
+			"ISTLOC": "26122",
+			"OOSLOC": "42522",
+			"ISTLOFFC": "26122",
+			"OOSLOFFC": "42522",
+			"ISTLWF": "17026",
+			"OOSLWF": "33426",
+			"PERCENTADMIT": "72",
+			"FUNDINGSOURCE": "Public",
+			"DegreeCOUNT": "1",
+			"url": "www.jmu.edu/",
+			"landgrantYN": "FALSE",
+			"census_region": "South",
+			"census_division": "South Atlantic",
+			"city": "Harrisonburg",
+			"state": "VA"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-78.870484, 38.436311]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"uni_name": "University of Virginia-Main Campus",
+			"ISTandF": "16853",
+			"ISTLOC": "32213",
+			"OOSLOC": "62633",
+			"ISTLOFFC": "32213",
+			"OOSLOFFC": "62633",
+			"ISTLWF": "20603",
+			"OOSLWF": "51023",
+			"PERCENTADMIT": "30",
+			"FUNDINGSOURCE": "Public",
+			"DegreeCOUNT": "8",
+			"url": "www.virginia.edu/",
+			"landgrantYN": "FALSE",
+			"census_region": "South",
+			"census_division": "South Atlantic",
+			"city": "Charlottesville",
+			"state": "VA"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-78.503428, 38.035665]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"uni_name": "Virginia Commonwealth University",
+			"ISTandF": "13624",
+			"ISTLOC": "31172",
+			"OOSLOC": "51204",
+			"ISTLOFFC": "31172",
+			"OOSLOFFC": "51204",
+			"ISTLWF": "19666",
+			"OOSLWF": "39698",
+			"PERCENTADMIT": "81",
+			"FUNDINGSOURCE": "Public",
+			"DegreeCOUNT": "4",
+			"url": "www.vcu.edu/",
+			"landgrantYN": "FALSE",
+			"census_region": "South",
+			"census_division": "South Atlantic",
+			"city": "Richmond",
+			"state": "VA"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-77.453597, 37.547631]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"uni_name": "Virginia Polytechnic Institute and State University",
+			"ISTandF": "13230",
+			"ISTLOC": "26240",
+			"OOSLOC": "44024",
+			"ISTLOFFC": "26240",
+			"OOSLOFFC": "44024",
+			"ISTLWF": "17320",
+			"OOSLWF": "35104",
+			"PERCENTADMIT": "71",
+			"FUNDINGSOURCE": "Public",
+			"DegreeCOUNT": "11",
+			"url": "WWW.VT.EDU",
+			"landgrantYN": "TRUE",
+			"census_region": "South",
+			"census_division": "South Atlantic",
+			"city": "Blacksburg",
+			"state": "VA"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-80.423675, 37.229012]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"uni_name": "Norwich University",
+			"ISTandF": "38662",
+			"ISTLOC": "56234",
+			"OOSLOC": "56234",
+			"ISTLOFFC": "56234",
+			"OOSLOFFC": "56234",
+			"ISTLWF": "42862",
+			"OOSLWF": "42862",
+			"PERCENTADMIT": "70",
+			"FUNDINGSOURCE": "Private",
+			"DegreeCOUNT": "2",
+			"url": "www.norwich.edu",
+			"landgrantYN": "FALSE",
+			"census_region": "Northeast",
+			"census_division": "New England",
+			"city": "Northfield",
+			"state": "VT"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-72.660129, 44.139402]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"uni_name": "University of Vermont",
+			"ISTandF": "17740",
+			"ISTLOC": "33274",
+			"OOSLOC": "56890",
+			"ISTLOFFC": "31672",
+			"OOSLOFFC": "55288",
+			"ISTLWF": "23142",
+			"OOSLWF": "46758",
+			"PERCENTADMIT": "69",
+			"FUNDINGSOURCE": "Public",
+			"DegreeCOUNT": "1",
+			"url": "www.uvm.edu",
+			"landgrantYN": "TRUE",
+			"census_region": "Northeast",
+			"census_division": "New England",
+			"city": "Burlington",
+			"state": "VT"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-73.198128, 44.479262]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"uni_name": "Eastern Washington University",
+			"ISTandF": "7109",
+			"ISTLOC": "22142",
+			"OOSLOC": "38895",
+			"ISTLOFFC": "22142",
+			"OOSLOFFC": "38895",
+			"ISTLWF": "10889",
+			"OOSLWF": "27642",
+			"PERCENTADMIT": "95",
+			"FUNDINGSOURCE": "Public",
+			"DegreeCOUNT": "2",
+			"url": "www.ewu.edu",
+			"landgrantYN": "FALSE",
+			"census_region": "West",
+			"census_division": "Pacific",
+			"city": "Cheney",
+			"state": "WA"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-117.583808, 47.490667]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"uni_name": "University of Washington-Seattle Campus",
+			"ISTandF": "10974",
+			"ISTLOC": "26595",
+			"OOSLOC": "51159",
+			"ISTLOFFC": "26595",
+			"OOSLOFFC": "51159",
+			"ISTLWF": "14478",
+			"OOSLWF": "39042",
+			"PERCENTADMIT": "45",
+			"FUNDINGSOURCE": "Public",
+			"DegreeCOUNT": "13",
+			"url": "www.washington.edu",
+			"landgrantYN": "FALSE",
+			"census_region": "West",
+			"census_division": "Pacific",
+			"city": "Seattle",
+			"state": "WA"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-122.313115, 47.656213]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"uni_name": "University of Washington-Tacoma Campus",
+			"ISTandF": "11046",
+			"ISTLOC": "26310",
+			"OOSLOC": "50874",
+			"ISTLOFFC": "26310",
+			"OOSLOFFC": "50874",
+			"ISTLWF": "15660",
+			"OOSLWF": "40224",
+			"PERCENTADMIT": "84",
+			"FUNDINGSOURCE": "Public",
+			"DegreeCOUNT": "5",
+			"url": "www.tacoma.uw.edu/",
+			"landgrantYN": "FALSE",
+			"census_region": "West",
+			"census_division": "Pacific",
+			"city": "Tacoma",
+			"state": "WA"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-122.438541, 47.244594]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"uni_name": "Washington State University",
+			"ISTandF": "11391",
+			"ISTLOC": "27249",
+			"OOSLOC": "41675",
+			"ISTLOFFC": "27249",
+			"OOSLOFFC": "41675",
+			"ISTLWF": "15893",
+			"OOSLWF": "30319",
+			"PERCENTADMIT": "72",
+			"FUNDINGSOURCE": "Public",
+			"DegreeCOUNT": "7",
+			"url": "wsu.edu/",
+			"landgrantYN": "TRUE",
+			"census_region": "West",
+			"census_division": "Pacific",
+			"city": "Pullman",
+			"state": "WA"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-117.158168, 46.730448]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"uni_name": "Western Washington University",
+			"ISTandF": "8183",
+			"ISTLOC": "23555",
+			"OOSLOC": "38067",
+			"ISTLOFFC": "23555",
+			"OOSLOFFC": "38067",
+			"ISTLWF": "12314",
+			"OOSLWF": "26826",
+			"PERCENTADMIT": "83",
+			"FUNDINGSOURCE": "Public",
+			"DegreeCOUNT": "1",
+			"url": "www.wwu.edu",
+			"landgrantYN": "FALSE",
+			"census_region": "West",
+			"census_division": "Pacific",
+			"city": "Bellingham",
+			"state": "WA"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-122.484873, 48.737236]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"uni_name": "University of Wisconsin Colleges",
+			"ISTandF": "5172",
+			"ISTLOC": "NULL",
+			"OOSLOC": "NULL",
+			"ISTLOFFC": "18942",
+			"OOSLOFFC": "26513",
+			"ISTLWF": "10292",
+			"OOSLWF": "17863",
+			"PERCENTADMIT": "75",
+			"FUNDINGSOURCE": "Public",
+			"DegreeCOUNT": "4",
+			"url": "www.uwc.edu",
+			"landgrantYN": "TRUE",
+			"census_region": "Midwest",
+			"census_division": "East North Central",
+			"city": "Madison",
+			"state": "WI"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-89.39859, 43.068214]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"uni_name": "University of Wisconsin-Milwaukee",
+			"ISTandF": "9565",
+			"ISTLOC": "24231",
+			"OOSLOC": "35510",
+			"ISTLOFFC": "24231",
+			"OOSLOFFC": "35510",
+			"ISTLWF": "13671",
+			"OOSLWF": "24950",
+			"PERCENTADMIT": "73",
+			"FUNDINGSOURCE": "Public",
+			"DegreeCOUNT": "5",
+			"url": "www.uwm.edu",
+			"landgrantYN": "FALSE",
+			"census_region": "Midwest",
+			"census_division": "East North Central",
+			"city": "Milwaukee",
+			"state": "WI"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-87.880488, 43.076848]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"uni_name": "Fairmont State University",
+			"ISTandF": "6950",
+			"ISTLOC": "19606",
+			"OOSLOC": "27322",
+			"ISTLOFFC": "19606",
+			"OOSLOFFC": "27322",
+			"ISTLWF": "10450",
+			"OOSLWF": "18166",
+			"PERCENTADMIT": "65",
+			"FUNDINGSOURCE": "Public",
+			"DegreeCOUNT": "3",
+			"url": "www.fairmontstate.edu/",
+			"landgrantYN": "FALSE",
+			"census_region": "South",
+			"census_division": "South Atlantic",
+			"city": "Fairmont",
+			"state": "WV"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-80.161844, 39.485925]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"uni_name": "West Virginia University",
+			"ISTandF": "8376",
+			"ISTLOC": "22472",
+			"OOSLOC": "37712",
+			"ISTLOFFC": "20236",
+			"OOSLOFFC": "35476",
+			"ISTLWF": "11896",
+			"OOSLWF": "27136",
+			"PERCENTADMIT": "76",
+			"FUNDINGSOURCE": "Public",
+			"DegreeCOUNT": "7",
+			"url": "www.wvu.edu",
+			"landgrantYN": "TRUE",
+			"census_region": "South",
+			"census_division": "South Atlantic",
+			"city": "Morgantown",
+			"state": "WV"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-79.954391, 39.634371]
+		}
+	}
+]
+}
